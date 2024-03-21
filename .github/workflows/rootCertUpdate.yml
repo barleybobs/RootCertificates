@@ -1,0 +1,42 @@
+name: Update Root Certificates
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  root-cert-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: "actions/checkout@v4"
+
+      - name: Set up python
+        uses: "actions/setup-python@v5"
+        with:
+          python-version: "3.12.2"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run python script
+        run: |
+          python rootCertUpdate.py
+
+      - name: Push updated list
+        run: |
+          if [[ -n $(git status -s certificates.json) ]]; then
+            git config --global user.name 'Certificate Updater'
+            git config --global user.email 'certificate-updater@users.noreply.github.com'
+  
+            git add certificates.json
+            git commit -m "Updated certificate list from Common CA Database"
+            git push
+          else
+            echo "certificates.json did not change"
+          fi
