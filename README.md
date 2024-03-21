@@ -35,3 +35,7 @@ It splits trust into whether they are trusted for websites and email.
     }
 },
 ```
+
+## Credits
+
+This project uses data from the [Common CA Database](https://www.ccadb.org/resources). **This project is not endorsed or promoted by the Common CA Database (CCADB).**
