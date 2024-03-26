@@ -4965,7 +4965,7 @@
         "sha256": "C32FFD9F46F936D16C3673990959434B9AD60AAFBB9E7CF33654F144CC1BA143",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
@@ -4981,7 +4981,7 @@
         "sha256": "8FAF7D2E2CB4709BB8E0B33666BF75A5DD45B5DE480F8EA8D4BFE6BEBC17F2ED",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
