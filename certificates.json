@@ -852,13 +852,13 @@
         "certificate_name": "ComSign Global Root CA",
         "sha256": "2605875AFCC176B2D66DD66A995D7F8D5EBB86CE120D0E7E9E7C6EF294A27D4C",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": false
         }
@@ -2948,13 +2948,13 @@
         "certificate_name": "VRK Gov. Root CA",
         "sha256": "F008733EC500DC498763CC9264C6FCEA40EC22000E927D053CE9C90BFA046CB2",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -4436,13 +4436,13 @@
         "certificate_name": "Security Communication RootCA1",
         "sha256": "E75E72ED9F560EEC6EB4800073A43FC3AD19195A392282017895974A99026B6C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
