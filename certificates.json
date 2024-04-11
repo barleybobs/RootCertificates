@@ -4602,7 +4602,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
@@ -4618,7 +4618,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
@@ -4628,7 +4628,7 @@
         "certificate_name": "Sectigo Public Server Authentication Root E46",
         "sha256": "C90F26F0FB1B4018B22227519B5CA2B53E2CA5B3BE5CF18EFE1BEF47380C5383",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4644,7 +4644,7 @@
         "certificate_name": "Sectigo Public Server Authentication Root R46",
         "sha256": "7BB647A62AEEAC88BF257AA522D01FFEA395E0AB45C73F93F65654EC38F25A06",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
