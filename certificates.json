@@ -2298,7 +2298,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
@@ -2308,7 +2308,7 @@
         "certificate_name": "Atos TrustedRoot Root CA ECC TLS 2021",
         "sha256": "B2FAE53E14CCD7AB9212064701AE279C1D8988FACB775FA8A008914E663988A8",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2330,7 +2330,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
@@ -2340,7 +2340,7 @@
         "certificate_name": "Atos TrustedRoot Root CA RSA TLS 2021",
         "sha256": "81A9088EA59FB364C548A6F85559099B6F0405EFBF18E5324EC9F457BA00112F",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4964,7 +4964,7 @@
         "certificate_name": "SSL.com TLS ECC Root CA 2022",
         "sha256": "C32FFD9F46F936D16C3673990959434B9AD60AAFBB9E7CF33654F144CC1BA143",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4980,7 +4980,7 @@
         "certificate_name": "SSL.com TLS RSA Root CA 2022",
         "sha256": "8FAF7D2E2CB4709BB8E0B33666BF75A5DD45B5DE480F8EA8D4BFE6BEBC17F2ED",
         "web": {
-            "apple": false,
+            "apple": true,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
