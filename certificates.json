@@ -4810,7 +4810,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
@@ -4826,7 +4826,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": false,
+            "apple": true,
             "microsoft": true,
             "mozilla": true
         }
