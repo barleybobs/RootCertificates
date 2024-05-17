@@ -58,7 +58,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -106,7 +106,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -132,13 +132,13 @@
         "certificate_name": "Actalis Authentication Root CA",
         "sha256": "55926084EC963A64B96E2ABE01CE0BA86A64FBFEBCC7AAB5AFC155B37FD76066",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -212,13 +212,13 @@
         "certificate_name": "Amazon Root CA 1",
         "sha256": "8ECDE6884F3D87B1125BA31AC3FCB13D7016DE7F57CC904FE1CB97C6AE98196E",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -228,13 +228,13 @@
         "certificate_name": "Amazon Root CA 2",
         "sha256": "1BA5B2AA8C65401A82960118F80BEC4F62304D83CEC4713A19C39C011EA46DB4",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -244,13 +244,13 @@
         "certificate_name": "Amazon Root CA 3",
         "sha256": "18CE6CFE7BF14E60B2E347B8DFE868CB31D02EBB3ADA271569F50343B46DB3A4",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -260,13 +260,13 @@
         "certificate_name": "Amazon Root CA 4",
         "sha256": "E35D28419ED02025CFA69038CD623962458DA5C695FBDEA3C22B0BFB25897092",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -276,7 +276,7 @@
         "certificate_name": "Starfield Services Root Certificate Authority - G2",
         "sha256": "568D6905A2C88708A4B3025190EDCFEDB1974A606A13C6E5290FCB2AE63EDAB5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": true
@@ -298,7 +298,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -308,13 +308,13 @@
         "certificate_name": "Certum EC-384 CA",
         "sha256": "6B328085625318AA50D173C98D8BDA09D57E27413D114CF787A0F5D06C030CF6",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -324,13 +324,13 @@
         "certificate_name": "Certum Trusted Network CA",
         "sha256": "5C58468D55F58E497E743982D2B50010B6D165374ACF83A7D4A32DB768C4408E",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -340,13 +340,13 @@
         "certificate_name": "Certum Trusted Network CA 2",
         "sha256": "B676F2EDDAE8775CD36CB0F63CD1D4603961F49E6265BA013A2F0307B6D0B804",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -356,13 +356,13 @@
         "certificate_name": "Certum Trusted Root CA",
         "sha256": "FE7696573855773E37A95E7AD4D9CC96C30157C15D31765BA9B15704E1AE78FD",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -372,7 +372,7 @@
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
@@ -452,7 +452,7 @@
         "certificate_name": "Buypass Class 2 Root CA",
         "sha256": "9A114025197C5BB95D94E63D55CD43790847B646B23CDF11ADA4A00EFF15FB48",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -468,7 +468,7 @@
         "certificate_name": "Buypass Class 3 Root CA",
         "sha256": "EDF7EBBCA27A2A384D387B7D4010C666E2EDB4843E4C29B4AE1D5B9332E6B24D",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -532,7 +532,7 @@
         "certificate_name": "Certainly Root E1",
         "sha256": "B4585F22E4AC756A4E8612A1361C5D9D031A93FD84FEBB778FA3068B0FC42DC2",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": false,
             "mozilla": true
@@ -548,7 +548,7 @@
         "certificate_name": "Certainly Root R1",
         "sha256": "77B82CD8644C4305F7ACC5CB156B45675004033D51C60C6202A8E0C33467D3A0",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": false,
             "mozilla": true
@@ -580,13 +580,13 @@
         "certificate_name": "Certigna",
         "sha256": "E3B6A2DB2ED7CE48842F7AC53241C7B71D54144BFB40C11F3F1D0B42F5EEA12D",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -612,13 +612,13 @@
         "certificate_name": "certSIGN ROOT CA",
         "sha256": "EAA962C4FA4A6BAFEBE415196D351CCD888D4F53F3FA8AE6D7C466A94E6042BB",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -628,13 +628,13 @@
         "certificate_name": "certSIGN ROOT CA G2",
         "sha256": "657CFE2FA73FAA38462571F332A2363A46FCE7020951710702CDFBB6EEDA3305",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -644,7 +644,7 @@
         "certificate_name": "CFCA EV ROOT",
         "sha256": "5CC3D78E4E1D5E45547A04E6873E64F90CF9536D1CCC2EF800F355C4C5FD70FD",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -676,13 +676,13 @@
         "certificate_name": "ePKI Root Certification Authority",
         "sha256": "C0A6F4DC63A24BFDCF54EF2A6A082A0A72DE35803E2FF5FF527AE5D87206DFD5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -724,7 +724,7 @@
         "certificate_name": "HiPKI Root CA - G1",
         "sha256": "F015CE3CC239BFEF064BE9F1D2C417E1A0264A0A94BE1F0C8D121864EB6949CC",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -746,7 +746,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": false,
             "mozilla": false
         }
@@ -852,13 +852,13 @@
         "certificate_name": "ComSign Global Root CA",
         "sha256": "2605875AFCC176B2D66DD66A995D7F8D5EBB86CE120D0E7E9E7C6EF294A27D4C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -1018,7 +1018,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1028,7 +1028,7 @@
         "certificate_name": "D-TRUST Root Class 3 CA 2 2009",
         "sha256": "49E7A442ACF0EA6287050054B52564B650E4F49E42E348D6AA38E039E957B1C1",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -1044,7 +1044,7 @@
         "certificate_name": "D-TRUST Root Class 3 CA 2 EV 2009",
         "sha256": "EEC5496B988CE98625B934092EEC2908BED0B0F316C2D4730C84EAF1F3D34881",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -1124,13 +1124,13 @@
         "certificate_name": "T-TeleSec GlobalRoot Class 2",
         "sha256": "91E2F5788D5810EBA7BA58737DE1548A8ECACD014598BC0B143E041B17052552",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1140,7 +1140,7 @@
         "certificate_name": "T-TeleSec GlobalRoot Class 3",
         "sha256": "FD73DAD31C644FF1B43BEF0CCDDA96710B9CD9875ECA7E31707AF3E96D522BBD",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -1220,13 +1220,13 @@
         "certificate_name": "Baltimore CyberTrust Root",
         "sha256": "16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1236,13 +1236,13 @@
         "certificate_name": "DigiCert Assured ID Root CA",
         "sha256": "3E9099B5015E8F486C00BCEA9D111EE721FABA355A89BCF1DF69561E3DC6325C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1252,13 +1252,13 @@
         "certificate_name": "DigiCert Assured ID Root G2",
         "sha256": "7D05EBB682339F8C9451EE094EEBFEFA7953A114EDB2F44949452FAB7D2FC185",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1268,13 +1268,13 @@
         "certificate_name": "DigiCert Assured ID Root G3",
         "sha256": "7E37CB8B4C47090CAB36551BA6F45DB840680FBA166A952DB100717F43053FC2",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1364,13 +1364,13 @@
         "certificate_name": "DigiCert Global Root CA",
         "sha256": "4348A0E9444C78CB265E058D5E8944B4D84F9662BD26DB257F8934A443C70161",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1380,13 +1380,13 @@
         "certificate_name": "DigiCert Global Root G2",
         "sha256": "CB3CCBB76031E5E0138F8DD39A23F9DE47FFC35E43C1144CEA27D46A5AB1CB5F",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1396,13 +1396,13 @@
         "certificate_name": "DigiCert Global Root G3",
         "sha256": "31AD6648F8104138C738F39EA4320133393E3A18CC02296EF97C2AC9EF6731D0",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1412,13 +1412,13 @@
         "certificate_name": "DigiCert High Assurance EV Root CA",
         "sha256": "7431E5F4C3C1CE4690774F0B61E05440883BA9A01ED00BA6ABD7806ED3B118CF",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1508,13 +1508,13 @@
         "certificate_name": "DigiCert Trusted Root G4",
         "sha256": "552F7BDCF1A7AF9E6CE672017F4F12ABF77240C78E761AC203D1D9D20AC89988",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1748,13 +1748,13 @@
         "certificate_name": "CA Disig Root R2",
         "sha256": "E23D4A036D7B70E9F595B1422079D2B91EDFBB1FB651A0633EAA8A9DC5F80703",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1812,13 +1812,13 @@
         "certificate_name": "GLOBALTRUST 2020",
         "sha256": "9A296A5182D1D451A2E37F439B74DAAFA267523329F90F9A0D2007C334E23C9A",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1908,13 +1908,13 @@
         "certificate_name": "emSign ECC Root CA - G3",
         "sha256": "86A1ECBA089C4A8D3BBE2734C612BA341D813E043CF9E8A862CD5C57A36BBE6B",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -1956,13 +1956,13 @@
         "certificate_name": "emSign Root CA - G1",
         "sha256": "40F6AF0346A99AA1CD1D555A4E9CCE62C7F9634603EE406615833DC8C8D00367",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2004,7 +2004,7 @@
         "certificate_name": "AffirmTrust Commercial",
         "sha256": "0376AB1D54C5F9803CE4B2E201A0EE7EEF7B57B636E8A93C9B8D4860C96F5FA7",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2020,7 +2020,7 @@
         "certificate_name": "AffirmTrust Networking",
         "sha256": "0A81EC5A929777F145904AF38D5D509F66B5E2C58FCDB531058B0E17F3F0B41B",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2036,7 +2036,7 @@
         "certificate_name": "AffirmTrust Premium",
         "sha256": "70A73F7F376B60074248904534B11482D5BF0E698ECC498DF52577EBF2E93B9A",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2052,7 +2052,7 @@
         "certificate_name": "AffirmTrust Premium ECC",
         "sha256": "BD71FDF6DA97E4CF62D1647ADD2581B07D79ADF8397EB4ECBA9C5E8488821423",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2164,13 +2164,13 @@
         "certificate_name": "Entrust Root Certification Authority",
         "sha256": "73C176434F1BC6D5ADF45B0E76E727287C8DE57616C1E6E6141A2B2CBC7D8E4C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2180,13 +2180,13 @@
         "certificate_name": "Entrust Root Certification Authority - EC1",
         "sha256": "02ED0EB28C14DA45165C566791700D6451D7FB56F0B2AB1D3B8EB070E56EDFF5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2196,13 +2196,13 @@
         "certificate_name": "Entrust Root Certification Authority - G2",
         "sha256": "43DF5774B03E7FEF5FE40D931A7BEDF1BB2E6B42738C4E6D3841103D3AA7F339",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2212,13 +2212,13 @@
         "certificate_name": "Entrust Root Certification Authority - G4",
         "sha256": "DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2260,13 +2260,13 @@
         "certificate_name": "Entrust.net Certification Authority (2048)",
         "sha256": "6DC47172E01CBCB0BF62580D895FE2B8AC9AD4F873801E0C10B9C837D21EB177",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2276,13 +2276,13 @@
         "certificate_name": "Atos TrustedRoot 2011",
         "sha256": "F356BEA244B7A91EB35D53CA9AD7864ACE018E2D35D5F8F96DDF68A6F41AA474",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2298,7 +2298,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2308,7 +2308,7 @@
         "certificate_name": "Atos TrustedRoot Root CA ECC TLS 2021",
         "sha256": "B2FAE53E14CCD7AB9212064701AE279C1D8988FACB775FA8A008914E663988A8",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2330,7 +2330,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2340,7 +2340,7 @@
         "certificate_name": "Atos TrustedRoot Root CA RSA TLS 2021",
         "sha256": "81A9088EA59FB364C548A6F85559099B6F0405EFBF18E5324EC9F457BA00112F",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2372,13 +2372,13 @@
         "certificate_name": "GDCA TrustAUTH R5 ROOT",
         "sha256": "BFFF8FD04433487D6A8AA60C1A29767A9FC2BBB05E420F713A13B992891D3893",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2388,13 +2388,13 @@
         "certificate_name": "GlobalSign",
         "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2404,13 +2404,13 @@
         "certificate_name": "GlobalSign",
         "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2420,13 +2420,13 @@
         "certificate_name": "GlobalSign",
         "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2532,13 +2532,13 @@
         "certificate_name": "GlobalSign Root CA",
         "sha256": "EBD41040E4BB3EC742C9E381D31EF2A41A48B6685C96E7CEF3C1DF6CD4331C99",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2548,7 +2548,7 @@
         "certificate_name": "GlobalSign Root E46",
         "sha256": "CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2564,7 +2564,7 @@
         "certificate_name": "GlobalSign Root R46",
         "sha256": "4FA3126D8D3A11D1C4855A4F807CBAD6CF919D3A5A88B03BEA2C6372D93C40C9",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2586,7 +2586,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2602,7 +2602,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2628,13 +2628,13 @@
         "certificate_name": "Go Daddy Class 2 Certification Authority",
         "sha256": "C3846BF24B9E93CA64274C0EC67C1ECC5E024FFCACD2D74019350E81FE546AE4",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2644,13 +2644,13 @@
         "certificate_name": "Go Daddy Root Certificate Authority - G2",
         "sha256": "45140B3247EB9CC8C5B4F0D7B53091F73292089E6E5A63E2749DD3ACA9198EDA",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2660,13 +2660,13 @@
         "certificate_name": "Starfield Class 2 Certification Authority",
         "sha256": "1465FA205397B876FAA6F0A9958E5590E40FCC7FAA4FB7C2C8677521FB5FB658",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -2676,7 +2676,7 @@
         "certificate_name": "Starfield Root Certificate Authority - G2",
         "sha256": "2CE1CB0BF9D2F9E102993FBE215152C3B2DD0CABDE1C68E5319B839154DBB7F5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -2692,13 +2692,13 @@
         "certificate_name": "GlobalSign",
         "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2740,13 +2740,13 @@
         "certificate_name": "GTS Root R1",
         "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2772,13 +2772,13 @@
         "certificate_name": "GTS Root R2",
         "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2788,13 +2788,13 @@
         "certificate_name": "GTS Root R3",
         "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2820,13 +2820,13 @@
         "certificate_name": "GTS Root R4",
         "sha256": "71CCA5391F9E794B04802530B363E121DA8A3043BB26662FEA4DCA7FC951A4BD",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -2996,7 +2996,7 @@
         "certificate_name": "Hongkong Post Root CA 3",
         "sha256": "5A2FC03F0C83B090BBFA40604B0988446C7636183DF9846E17101A447FB8EFD6",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3188,13 +3188,13 @@
         "certificate_name": "ACCVRAIZ1",
         "sha256": "9A6EC012E1A7DA9DBE34194D478AD7C0DB1822FB071DF12981496ED104384113",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3220,13 +3220,13 @@
         "certificate_name": "AC RAIZ FNMT-RCM",
         "sha256": "EBC5570C29018C4D67B1AA127BAF12F703B4611EBC17B7DAB5573894179B93FA",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -3364,7 +3364,7 @@
         "certificate_name": "TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1",
         "sha256": "46EDC3689046D53A453FB3104AB80DCAEC658B2660EA1629DD7E867990648716",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3418,7 +3418,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3434,7 +3434,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3476,7 +3476,7 @@
         "certificate_name": "HARICA TLS ECC Root CA 2021",
         "sha256": "3F99CC474ACFCE4DFED58794665E478D1547739F2E780F1BB4CA9B133097D401",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3492,7 +3492,7 @@
         "certificate_name": "HARICA TLS RSA Root CA 2021",
         "sha256": "D95D0E8EDA79525BF9BEB11B14D2100D3294985F0C62D9FABD9CD999ECCB7B1D",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3508,13 +3508,13 @@
         "certificate_name": "Hellenic Academic and Research Institutions ECC RootCA 2015",
         "sha256": "44B545AA8A25E65A73CA15DC27FC36D24C1CB9953A066539B11582DC487B4833",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3540,13 +3540,13 @@
         "certificate_name": "Hellenic Academic and Research Institutions RootCA 2015",
         "sha256": "A040929A02CE53B4ACF4F2FFC6981CE4496F755E6D45FE0B2A692BCD52523F36",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3556,13 +3556,13 @@
         "certificate_name": "IdenTrust Commercial Root CA 1",
         "sha256": "5D56499BE4D2E08BCFCAD08A3E38723D50503BDE706948E42F55603019E528AE",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3572,13 +3572,13 @@
         "certificate_name": "IdenTrust Public Sector Root CA 1",
         "sha256": "30D0895A9A448A262091635522D1F52010B5867ACAE12C78EF958FD4F4389F2F",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3604,7 +3604,7 @@
         "certificate_name": "ISRG Root X1",
         "sha256": "96BCEC06264976F37460779ACF28C5A7CFE8A3C0AAE11A8FFCEE05C0BDDF08C6",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3620,7 +3620,7 @@
         "certificate_name": "ISRG Root X2",
         "sha256": "69729B8E15A86EFC177A57AFB7171DFC64ADD28C2FCA8CF1507E34453CCB1470",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3668,13 +3668,13 @@
         "certificate_name": "Izenpe.com",
         "sha256": "2530CC8E98321502BAD96F9B1FBA1B099E2D299E0F4548BB914F363BC0D4531F",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": false,
             "mozilla": false
         }
@@ -3796,13 +3796,13 @@
         "certificate_name": "Microsec e-Szigno Root CA 2009",
         "sha256": "3C5F81FEA5FAB82C64BFA2EAECAFCDE8E077FC8620A7CAE537163DF36EDBF378",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -3828,7 +3828,7 @@
         "certificate_name": "Microsoft ECC Root Certificate Authority 2017",
         "sha256": "358DF39D764AF9E1B766E9C972DF352EE15CFAC227AF6AD1D70E8E4A6EDCBA02",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3908,7 +3908,7 @@
         "certificate_name": "Microsoft RSA Root Certificate Authority 2017",
         "sha256": "C741F70F4B2A8D88BF2E71C14122EF53EF10EBA0CFA5E64CFA20F418853073E0",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -3956,13 +3956,13 @@
         "certificate_name": "NAVER Global Root Certification Authority",
         "sha256": "88F438DCF8FFD1FA8F429115FFE5F82AE1E06E0C70C375FAAD717B34A49E7265",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -3972,13 +3972,13 @@
         "certificate_name": "NetLock Arany (Class Gold) F\u0151tan\u00fas\u00edtv\u00e1ny",
         "sha256": "6C61DAC3A2DEF031506BE036D2A6FE401994FBD13DF9C8D466599274C446EC98",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4154,7 +4154,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4164,13 +4164,13 @@
         "certificate_name": "OISTE WISeKey Global Root GB CA",
         "sha256": "6B9C08E86EB0F767CFAD65CD98B62149E5494A67F5845E7BD1ED019F27B86BD6",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4180,13 +4180,13 @@
         "certificate_name": "OISTE WISeKey Global Root GC CA",
         "sha256": "8560F91C3624DABA9570B5FEA0DBE36FF11A8323BE9486854FB3F34A5571198D",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -4340,13 +4340,13 @@
         "certificate_name": "QuoVadis Root CA 1 G3",
         "sha256": "8A866FD1B276B57E578E921C65828A2BED58E9F2F288054134B7F1F4BFC9CC74",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4356,13 +4356,13 @@
         "certificate_name": "QuoVadis Root CA 2",
         "sha256": "85A0DD7DD720ADB7FF05F83D542B209DC7FF4528F7D677B18389FEA5E5C49E86",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4372,7 +4372,7 @@
         "certificate_name": "QuoVadis Root CA 2 G3",
         "sha256": "8FE4FB0AF93A4D0D67DB0BEBB23E37C71BF325DCBCDD240EA04DAF58B47E1840",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4388,13 +4388,13 @@
         "certificate_name": "QuoVadis Root CA 3",
         "sha256": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4404,13 +4404,13 @@
         "certificate_name": "QuoVadis Root CA 3 G3",
         "sha256": "88EF81DE202EB018452E43F864725CEA5FBD1FC2D9D205730709C5D8B8690F46",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4452,13 +4452,13 @@
         "certificate_name": "Security Communication RootCA2",
         "sha256": "513B2CECB810D4CDE5DD85391ADFC6C2DD60D87BB736D2B521484AA47A0EBEF6",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4484,13 +4484,13 @@
         "certificate_name": "AAA Certificate Services",
         "sha256": "D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4516,13 +4516,13 @@
         "certificate_name": "COMODO Certification Authority",
         "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": false,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": false,
             "mozilla": true
         }
@@ -4532,13 +4532,13 @@
         "certificate_name": "COMODO ECC Certification Authority",
         "sha256": "1793927A0614549789ADCE2F8F34F7F0B66D0F3AE3A3B84D21EC15DBBA4FADC7",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4548,13 +4548,13 @@
         "certificate_name": "COMODO RSA Certification Authority",
         "sha256": "52F0E1C4E58EC629291B60317F074671B85D7EA80D5B07273463534B32B40234",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4602,7 +4602,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4618,7 +4618,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4628,7 +4628,7 @@
         "certificate_name": "Sectigo Public Server Authentication Root E46",
         "sha256": "C90F26F0FB1B4018B22227519B5CA2B53E2CA5B3BE5CF18EFE1BEF47380C5383",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4644,7 +4644,7 @@
         "certificate_name": "Sectigo Public Server Authentication Root R46",
         "sha256": "7BB647A62AEEAC88BF257AA522D01FFEA395E0AB45C73F93F65654EC38F25A06",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4692,13 +4692,13 @@
         "certificate_name": "USERTrust ECC Certification Authority",
         "sha256": "4FF460D54B9C86DABFBCFC5712E0400D2BED3FBC4D4FBDAA86E06ADCD2A9AD7A",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4708,13 +4708,13 @@
         "certificate_name": "USERTrust RSA Certification Authority",
         "sha256": "E793C9B02FD8AA13E21C31228ACCB08119643B749C898964B1746D46C3D4CBD2",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4810,7 +4810,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4826,7 +4826,7 @@
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4900,7 +4900,7 @@
         "certificate_name": "SSL.com EV Root Certification Authority ECC",
         "sha256": "22A2C1F7BDED704CC1E701B5F408C310880FE956B5DE2A4A44F99C873A25A7C8",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4916,7 +4916,7 @@
         "certificate_name": "SSL.com EV Root Certification Authority RSA R2",
         "sha256": "2E7BF16CC22485A7BBE2AA8696750761B0AE39BE3B2FE9D0CC6D4EF73491425C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4932,13 +4932,13 @@
         "certificate_name": "SSL.com Root Certification Authority ECC",
         "sha256": "3417BB06CC6007DA1B961C920B8AB4CE3FAD820E4AA30B9ACBC4A74EBDCEBC65",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4948,13 +4948,13 @@
         "certificate_name": "SSL.com Root Certification Authority RSA",
         "sha256": "85666A562EE0BE5CE925C1D8890A6F76A87EC16D4D7D5F29EA7419CF20123B69",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -4964,7 +4964,7 @@
         "certificate_name": "SSL.com TLS ECC Root CA 2022",
         "sha256": "C32FFD9F46F936D16C3673990959434B9AD60AAFBB9E7CF33654F144CC1BA143",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -4980,7 +4980,7 @@
         "certificate_name": "SSL.com TLS RSA Root CA 2022",
         "sha256": "8FAF7D2E2CB4709BB8E0B33666BF75A5DD45B5DE480F8EA8D4BFE6BEBC17F2ED",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
@@ -5012,13 +5012,13 @@
         "certificate_name": "SwissSign Gold CA - G2",
         "sha256": "62DD0BE9B9F50A163EA0F8E75C053B1ECA57EA55C8688F647C6881F2C8357B95",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5076,13 +5076,13 @@
         "certificate_name": "SwissSign Silver CA - G2",
         "sha256": "BE6C4DA2BBB9BA59B6F3939768374246C3C005993FA98F020D1DEDBED48A81D5",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5108,13 +5108,13 @@
         "certificate_name": "TWCA Global Root CA",
         "sha256": "59769007F7685D0FCD50872F9F95D5755A5B2B457D81F3692B610A98672F0E1B",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5140,13 +5140,13 @@
         "certificate_name": "TWCA Root Certification Authority",
         "sha256": "BFD88FE1101C41AE3E801BF8BE56350EE9BAD1A6B9BD515EDC5C6D5B8711AC44",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5172,13 +5172,13 @@
         "certificate_name": "Telia Root CA v2",
         "sha256": "242B69742FCB1E5B2ABF98898B94572187544E5B4D9911786573621F6A74B82C",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5188,13 +5188,13 @@
         "certificate_name": "TeliaSonera Root CA v1",
         "sha256": "DD6936FE21F8F077C123A1A521C12224F72255B73E03A7260693E8A24B0FA389",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5380,13 +5380,13 @@
         "certificate_name": "SecureTrust CA",
         "sha256": "F1C1B50AE5A20DD8030EC9F6BC24823DD367B5255759B4E71B61FCE9F7375D73",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
@@ -5396,13 +5396,13 @@
         "certificate_name": "Trustwave Global Certification Authority",
         "sha256": "97552015F5DDFC3C8788C006944555408894450084F100867086BC1A2BB58DC8",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5412,13 +5412,13 @@
         "certificate_name": "Trustwave Global ECC P256 Certification Authority",
         "sha256": "945BBC825EA554F489D1FD51A73DDF2EA624AC7019A05205225C22A78CCFA8B4",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5428,13 +5428,13 @@
         "certificate_name": "Trustwave Global ECC P384 Certification Authority",
         "sha256": "55903859C8C0C3EBB8759ECE4E2557225FF5758BBD38EBD48276601E1BD58097",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": true,
             "microsoft": true,
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5450,7 +5450,7 @@
             "mozilla": true
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": true
         }
@@ -5476,13 +5476,13 @@
         "certificate_name": "Visa Information Delivery Root CA",
         "sha256": "C57A3ACBE8C06BA1988A83485BF326F2448775379849DE01CA43571AF357E74B",
         "web": {
-            "apple": true,
+            "apple": false,
             "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
         "email": {
-            "apple": true,
+            "apple": false,
             "microsoft": true,
             "mozilla": false
         }
