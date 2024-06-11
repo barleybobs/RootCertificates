@@ -4453,7 +4453,7 @@
         "sha256": "E75E72ED9F560EEC6EB4800073A43FC3AD19195A392282017895974A99026B6C",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
