@@ -370,22 +370,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
         "web": {
             "apple": false,
@@ -396,6 +380,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -444,7 +444,7 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
@@ -460,7 +460,7 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
@@ -1008,12 +1008,44 @@
         }
     },
     {
+        "owner": "D-Trust",
+        "certificate_name": "D-TRUST BR Root CA 2 2023",
+        "sha256": "0552E6F83FDF65E8FA9670E666DF28A4E21340B510CBE52566F97C4FB94B2BD1",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "D-TRUST",
         "certificate_name": "D-TRUST EV Root CA 1 2020",
         "sha256": "08170D1AA36453901A2F959245E347DB0C8D37ABAABC56B81AA100DC958970DB",
         "web": {
             "apple": false,
             "chrome": true,
+            "microsoft": false,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "D-Trust",
+        "certificate_name": "D-TRUST EV Root CA 2 2023",
+        "sha256": "8E8221B2E7D4007836A1672F0DCC299C33BC07D316F132FA1A206D587150F1CE",
+        "web": {
+            "apple": false,
+            "chrome": false,
             "microsoft": false,
             "mozilla": true
         },
@@ -4444,7 +4476,7 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
@@ -5095,12 +5127,12 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
