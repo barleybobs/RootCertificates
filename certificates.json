@@ -1760,7 +1760,7 @@
         }
     },
     {
-        "owner": "DigitalSign - Certificadora Digital, S.A",
+        "owner": "DigitalSign - Certificadora Digital, S.A.",
         "certificate_name": "DIGITALSIGN GLOBAL ROOT ECDSA CA",
         "sha256": "261D7114AE5F8FF2D8C7209A9DE4289E6AFC9D717023D85450909199F1857CFE",
         "web": {
@@ -1776,7 +1776,7 @@
         }
     },
     {
-        "owner": "DigitalSign - Certificadora Digital, S.A",
+        "owner": "DigitalSign - Certificadora Digital, S.A.",
         "certificate_name": "DIGITALSIGN GLOBAL ROOT RSA CA",
         "sha256": "82BD5D851ACF7F6E1BA7BFCBC53030D0E7BC3C21DF772D858CAB41D199BDF595",
         "web": {
