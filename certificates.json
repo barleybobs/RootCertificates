@@ -1169,22 +1169,6 @@
     },
     {
         "owner": "Deutsche Telekom Security GmbH",
-        "certificate_name": "Deutsche Telekom Root CA 2",
-        "sha256": "B6191A50D0C3977F7DA99BCDAAC86A227DAEB9679EC70BA3B0C9D92271C170D3",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Deutsche Telekom Security GmbH",
         "certificate_name": "T-TeleSec GlobalRoot Class 2",
         "sha256": "91E2F5788D5810EBA7BA58737DE1548A8ECACD014598BC0B143E041B17052552",
         "web": {
@@ -2054,7 +2038,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2070,7 +2054,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2086,7 +2070,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2102,7 +2086,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2118,7 +2102,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2134,7 +2118,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2150,7 +2134,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2198,7 +2182,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2214,7 +2198,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2230,7 +2214,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2246,7 +2230,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2262,7 +2246,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
@@ -2278,7 +2262,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2326,7 +2310,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2450,7 +2434,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2466,7 +2450,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2786,22 +2770,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R1",
         "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
         "web": {
             "apple": false,
@@ -2813,6 +2781,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R1",
+        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -2850,22 +2834,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
         "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
             "apple": false,
@@ -2877,6 +2845,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R3",
+        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
         }
     },
     {
@@ -3127,6 +3111,22 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Government of Japan, Digital Agency",
+        "certificate_name": "Japanese Government Root CA",
+        "sha256": "D7A5514D93F7D53BD27DE2051F8E1FF71CA0AC78FACFE46A8BCCA4589984AE64",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -4129,22 +4129,6 @@
     },
     {
         "owner": "Netrust Pte Ltd",
-        "certificate_name": "Netrust CA1",
-        "sha256": "781D64DFA77B00F2C006700B1FDA86BF68B865A603C7A656F92E90C042CA2873",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Netrust Pte Ltd",
         "certificate_name": "Netrust Root CA 2",
         "sha256": "65353833CF234C79562164F90849C0D104DBABF8EE41064D83E8CBE03BA1C5A5",
         "web": {
@@ -4242,7 +4226,7 @@
     {
         "owner": "Notarius",
         "certificate_name": "Notarius Root Certificate Authority",
-        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
+        "sha256": "AAA15BDDB1C924AD7A7F22F89E5CD3E2C61407A064E011B7CF4CB618716449A4",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4258,7 +4242,7 @@
     {
         "owner": "Notarius",
         "certificate_name": "Notarius Root Certificate Authority",
-        "sha256": "AAA15BDDB1C924AD7A7F22F89E5CD3E2C61407A064E011B7CF4CB618716449A4",
+        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4704,6 +4688,54 @@
         }
     },
     {
+        "owner": "SECOM Trust Systems Co., Ltd.",
+        "certificate_name": "SECOM SMIME RSA Root CA 2024",
+        "sha256": "3629E7188E00A7CB3232C4426BC84912F1218B1A9AE676C0B0ABE1DBFE2182B5",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "SECOM Trust Systems Co., Ltd.",
+        "certificate_name": "SECOM TLS ECC Root CA 2024",
+        "sha256": "6AB2AB75F51CB4F4F0156203FBF6F646232F514BE059F62833308B82B4D72DB1",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "SECOM Trust Systems Co., Ltd.",
+        "certificate_name": "SECOM TLS RSA Root CA 2024",
+        "sha256": "1435F225C5D252D7A21948CC3CE62AECFA88001E3DD72D1CC3555100EB372F93",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "SECOM Trust Systems CO., LTD.",
         "certificate_name": "Security Communication ECC RootCA1",
         "sha256": "E74FBDA55BD564C473A36B441AA799C8A68E077440E8288B9FA1E50E4BBACA11",
@@ -5037,22 +5069,6 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
-        }
-    },
-    {
-        "owner": "Sectigo",
-        "certificate_name": "UTN-USERFirst-Client Authentication and Email",
-        "sha256": "43F257412D440D627476974F877DA8F1FC2444565A367AE60EDDC27A412531AE",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
         }
     },
     {
@@ -5664,22 +5680,6 @@
         }
     },
     {
-        "owner": "TurkTrust",
-        "certificate_name": "T\u00dcRKTRUST Elektronik Sertifika Hizmet Sa\u011flay\u0131c\u0131s\u0131 H5",
-        "sha256": "49351B903444C185CCDC5C693D24D8555CB208D6A8141307699F4AF063199D78",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Viking Cloud, Inc.",
         "certificate_name": "Secure Global CA",
         "sha256": "4200F5043AC8590EBB527D209ED1503029FBCBD41CA1B506EC27F15ADE7DAC69",
@@ -5773,22 +5773,6 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
-        }
-    },
-    {
-        "owner": "Visa",
-        "certificate_name": "Visa eCommerce Root",
-        "sha256": "69FAC9BD55FB0AC78D53BBEE5CF1D597989FD0AAAB20A25151BDF1733EE7D122",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
         }
     },
     {
