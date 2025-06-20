@@ -711,7 +711,7 @@
             "apple": false,
             "chrome": true,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
