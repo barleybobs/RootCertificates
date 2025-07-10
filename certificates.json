@@ -370,22 +370,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
         "web": {
             "apple": false,
@@ -396,6 +380,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -984,6 +984,22 @@
             "chrome": false,
             "microsoft": true,
             "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Cybertrust Japan / JCSI",
+        "certificate_name": "SecureSign Root CA16",
+        "sha256": "4C1CCD24F17E950FC18536B33CAFE32293CFC33E8467B41E1C693055D7F513BF",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -2434,22 +2450,6 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "GlobalSign nv-sa",
-        "certificate_name": "GlobalSign",
         "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
@@ -2467,6 +2467,22 @@
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
         "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "GlobalSign nv-sa",
+        "certificate_name": "GlobalSign",
+        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2738,22 +2754,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GlobalSign",
         "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
         "web": {
             "apple": false,
@@ -2765,6 +2765,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GlobalSign",
+        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -2802,22 +2818,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R2",
-        "sha256": "8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R2",
         "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
         "web": {
             "apple": false,
@@ -2833,18 +2833,18 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
-        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
+        "certificate_name": "GTS Root R2",
+        "sha256": "8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         }
     },
     {
@@ -2861,6 +2861,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R3",
+        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -3308,6 +3324,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Government of Spain, F\u00e1brica Nacional de Moneda y Timbre (FNMT)",
+        "certificate_name": "AC RAIZ FNMT-RCM G2",
+        "sha256": "020786539F02B623CFDF325B2E4E45E0D9E3F1B8E5EC9600EBF0AC8FBF03FBE2",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
