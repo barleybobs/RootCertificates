@@ -1292,7 +1292,7 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
