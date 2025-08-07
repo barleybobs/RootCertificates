@@ -54,7 +54,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -70,7 +70,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -102,7 +102,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -118,7 +118,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -182,7 +182,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -294,7 +294,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -902,7 +902,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -918,7 +918,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -1734,7 +1734,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2054,7 +2054,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2070,7 +2070,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2086,7 +2086,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2102,7 +2102,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2118,7 +2118,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2134,7 +2134,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2150,7 +2150,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2198,7 +2198,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2214,7 +2214,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2230,7 +2230,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2246,7 +2246,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2262,7 +2262,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
@@ -2278,7 +2278,7 @@
         "web": {
             "apple": false,
             "chrome": true,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2326,7 +2326,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2918,7 +2918,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -2950,7 +2950,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -3222,7 +3222,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -3462,7 +3462,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -4294,7 +4294,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -5366,7 +5366,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
