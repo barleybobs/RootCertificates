@@ -2306,7 +2306,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2322,7 +2322,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2706,22 +2706,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
         "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
         "web": {
             "apple": false,
@@ -2733,6 +2717,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R3",
+        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -4140,6 +4140,70 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "OISTE",
+        "certificate_name": "OISTE Client Root ECC G1",
+        "sha256": "D9A32485A8CCA85539CEF12FFFFF711378A17851D73DA2732AB4302D763BD62B",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "OISTE",
+        "certificate_name": "OISTE Client Root RSA G1",
+        "sha256": "D02A0F994A868C66395F2E7A880DF509BD0C29C96DE16015A0FD501EDA4F96A9",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "OISTE",
+        "certificate_name": "OISTE Server Root ECC G1",
+        "sha256": "EEC997C0C30F216F7E3B8B307D2BAE42412D753FC8219DAFD1520B2572850F49",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "OISTE",
+        "certificate_name": "OISTE Server Root RSA G1",
+        "sha256": "9AE36232A5189FFDDB353DFD26520C015395D22777DAC59DB57B98C089A651E6",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
