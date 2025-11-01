@@ -370,22 +370,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
         "web": {
             "apple": false,
@@ -396,6 +380,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -808,70 +808,6 @@
             "chrome": false,
             "microsoft": false,
             "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "CommScope",
-        "certificate_name": "CommScope Public Trust ECC Root-01",
-        "sha256": "11437CDA7BB45E41365F45B39A38986B0DE00DEF348E0C7BB0873633800BC38B",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "CommScope",
-        "certificate_name": "CommScope Public Trust ECC Root-02",
-        "sha256": "2FFB7F813BBBB3C89AB4E8162D0F16D71509A830CC9D73C262E5140875D1AD4A",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "CommScope",
-        "certificate_name": "CommScope Public Trust RSA Root-01",
-        "sha256": "02BDF96E2A45DD9BF18FC7E1DBDF21A0379BA3C9C2610344CFD8D606FEC1ED81",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "CommScope",
-        "certificate_name": "CommScope Public Trust RSA Root-02",
-        "sha256": "FFE943D793424B4F7C440C1C3D648D5363F34B82DC87AA7A9F118FC5DEE101F1",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2642,22 +2578,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R1",
         "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
         "web": {
             "apple": false,
@@ -2669,6 +2589,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R1",
+        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -3266,7 +3202,7 @@
     {
         "owner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
         "certificate_name": "Government Root Certification Authority",
-        "sha256": "7600295EEFE85B9E1FD624DB76062AAAAE59818A54D2774CD4C0B2C01131E1B3",
+        "sha256": "70B922BFDA0E3F4A342E4EE22D579AE598D071CC5EC9C30F123680340388AEA5",
         "web": {
             "apple": false,
             "chrome": false,
@@ -3282,7 +3218,7 @@
     {
         "owner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
         "certificate_name": "Government Root Certification Authority",
-        "sha256": "70B922BFDA0E3F4A342E4EE22D579AE598D071CC5EC9C30F123680340388AEA5",
+        "sha256": "7600295EEFE85B9E1FD624DB76062AAAAE59818A54D2774CD4C0B2C01131E1B3",
         "web": {
             "apple": false,
             "chrome": false,
