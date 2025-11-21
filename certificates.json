@@ -370,22 +370,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
         "web": {
             "apple": false,
@@ -396,6 +380,22 @@
         "email": {
             "apple": false,
             "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
@@ -1569,6 +1569,214 @@
     },
     {
         "owner": "DigiCert",
+        "certificate_name": "QuoVadis Client ECC P384 Root G4",
+        "sha256": "D3C07AC44BD8FF1975BC62F1C7E9840EA8E188A4BA51133B8C4EFF05E34A2729",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Client RSA 4096 Root G4",
+        "sha256": "80AC91FA891C79723A61ABC77F86E19905A92DA27E51695CA0C0B66C1C039BF2",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Root CA 1 G3",
+        "sha256": "8A866FD1B276B57E578E921C65828A2BED58E9F2F288054134B7F1F4BFC9CC74",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Root CA 2",
+        "sha256": "85A0DD7DD720ADB7FF05F83D542B209DC7FF4528F7D677B18389FEA5E5C49E86",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Root CA 2 G3",
+        "sha256": "8FE4FB0AF93A4D0D67DB0BEBB23E37C71BF325DCBCDD240EA04DAF58B47E1840",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Root CA 3",
+        "sha256": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Root CA 3 G3",
+        "sha256": "88EF81DE202EB018452E43F864725CEA5FBD1FC2D9D205730709C5D8B8690F46",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Signing ECC P384 Root G4",
+        "sha256": "771535D43D4633BD307EB7B8A3966B5DF00707C088089920080C1AE6D3CB0F68",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis Signing RSA 4096 Root G4",
+        "sha256": "9F8E6DB31E740285E0C2C2DEB09E442BDD4E74BDEEAE2962BC82D1ECB9F39855",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis SMIME ECC P384 Root G4",
+        "sha256": "83FDDB2FD9DAE3B21EEBD33CF46251D746F0D6102B683150DD7B98AD8E4BB9F8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis SMIME RSA 4096 Root G4",
+        "sha256": "5232A304AA4A10CFE6C47842EA3381CB31D619E24F58126D534CD50C5CE7845D",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis TLS ECC P384 Root G4",
+        "sha256": "6E1FD3AE0D2D477C8F5EE5F335CC5B6356872654E5356A73D8C0A30A17C252A2",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "QuoVadis TLS RSA 4096 Root G4",
+        "sha256": "C8A2D38A24F5AC302D8A08EBD38923D9A750B49220F092E82D1C53249E1533D0",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
         "certificate_name": "Symantec Class 1 Public Primary Certification Authority - G6",
         "sha256": "9D190B2E314566685BE8A889E27AA8C7D7AE1D8AADDBA3C1ECF9D24863CD34B9",
         "web": {
@@ -2242,6 +2450,22 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
+        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "GlobalSign nv-sa",
+        "certificate_name": "GlobalSign",
         "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
@@ -2259,22 +2483,6 @@
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
         "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "GlobalSign nv-sa",
-        "certificate_name": "GlobalSign",
-        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2546,22 +2754,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GlobalSign",
         "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
         "web": {
             "apple": false,
@@ -2573,6 +2765,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GlobalSign",
+        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
         }
     },
     {
@@ -2642,22 +2850,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
         "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
             "apple": false,
@@ -2669,6 +2861,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R3",
+        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
         }
     },
     {
@@ -4323,214 +4531,6 @@
         "owner": "Prvn\u00ed certifika\u010dn\u00ed autorita, a.s.",
         "certificate_name": "I.CA TLS Root CA/RSA 05/2022",
         "sha256": "F9A17A00E5C294BA9614A715819AF57F3FD48CC413453FBB8A5FC7E97964E2BC",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Client ECC P384 Root G4",
-        "sha256": "D3C07AC44BD8FF1975BC62F1C7E9840EA8E188A4BA51133B8C4EFF05E34A2729",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Client RSA 4096 Root G4",
-        "sha256": "80AC91FA891C79723A61ABC77F86E19905A92DA27E51695CA0C0B66C1C039BF2",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Root CA 1 G3",
-        "sha256": "8A866FD1B276B57E578E921C65828A2BED58E9F2F288054134B7F1F4BFC9CC74",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Root CA 2",
-        "sha256": "85A0DD7DD720ADB7FF05F83D542B209DC7FF4528F7D677B18389FEA5E5C49E86",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Root CA 2 G3",
-        "sha256": "8FE4FB0AF93A4D0D67DB0BEBB23E37C71BF325DCBCDD240EA04DAF58B47E1840",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Root CA 3",
-        "sha256": "18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Root CA 3 G3",
-        "sha256": "88EF81DE202EB018452E43F864725CEA5FBD1FC2D9D205730709C5D8B8690F46",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Signing ECC P384 Root G4",
-        "sha256": "771535D43D4633BD307EB7B8A3966B5DF00707C088089920080C1AE6D3CB0F68",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis Signing RSA 4096 Root G4",
-        "sha256": "9F8E6DB31E740285E0C2C2DEB09E442BDD4E74BDEEAE2962BC82D1ECB9F39855",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis SMIME ECC P384 Root G4",
-        "sha256": "83FDDB2FD9DAE3B21EEBD33CF46251D746F0D6102B683150DD7B98AD8E4BB9F8",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis SMIME RSA 4096 Root G4",
-        "sha256": "5232A304AA4A10CFE6C47842EA3381CB31D619E24F58126D534CD50C5CE7845D",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis TLS ECC P384 Root G4",
-        "sha256": "6E1FD3AE0D2D477C8F5EE5F335CC5B6356872654E5356A73D8C0A30A17C252A2",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "QuoVadis",
-        "certificate_name": "QuoVadis TLS RSA 4096 Root G4",
-        "sha256": "C8A2D38A24F5AC302D8A08EBD38923D9A750B49220F092E82D1C53249E1533D0",
         "web": {
             "apple": false,
             "chrome": false,
