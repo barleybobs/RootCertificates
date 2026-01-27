@@ -81,22 +81,6 @@
     },
     {
         "owner": "AC Camerfirma, S.A.",
-        "certificate_name": "Global Chambersign Root",
-        "sha256": "EF3CB417FC8EBF6F97876C9E4ECE39DE1EA5FE649141D1028B7D11C0B2298CED",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "AC Camerfirma, S.A.",
         "certificate_name": "Global Chambersign Root - 2008",
         "sha256": "136335439334A7698016A0D324DE72284E079D7B5220BB8FBD747816EEBEBACA",
         "web": {
@@ -141,22 +125,6 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
-        }
-    },
-    {
-        "owner": "Agence Nationale de Certification Electronique",
-        "certificate_name": "Tunisian Root Certificate Authority - TunRootCA2",
-        "sha256": "C795FF8FF20C966688F064A1E091421D3110A3456C17EC2404B998738741F622",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
         }
     },
     {
@@ -417,6 +385,22 @@
     },
     {
         "owner": "Autoridad de Certificaci\u00f3n (ANF AC)",
+        "certificate_name": "ANF Global Root CA",
+        "sha256": "E0E17AEA06CF9CE12AAE8190345A2C59720130A7D8FF72F3745AD75DBAA365B6",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificaci\u00f3n (ANF AC)",
         "certificate_name": "ANF Secure Server Root CA",
         "sha256": "FB8FEC759169B9106B1E511644C618C51304373F6C0643088D8BEFFD1B997599",
         "web": {
@@ -544,22 +528,6 @@
         }
     },
     {
-        "owner": "Carillon Information Security Inc.",
-        "certificate_name": "CISRCA1",
-        "sha256": "12FF248372BD87E44ECE432198BE9B04525F33DEE00356FD646F8ACC01412F86",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Certainly LLC",
         "certificate_name": "Certainly Root E1",
         "sha256": "B4585F22E4AC756A4E8612A1361C5D9D031A93FD84FEBB778FA3068B0FC42DC2",
@@ -603,7 +571,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -760,54 +728,6 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Cisco",
-        "certificate_name": "Cisco Root CA 2048",
-        "sha256": "8327BC8C9D69947B3DE3C27511537267F59C21B9FA7B613FAFBCCD53B7024000",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Cisco",
-        "certificate_name": "Cisco RXC-R2",
-        "sha256": "229CCC196D32C98421CC119E78486EEBEF603AECD525C6B88B47ABB740692B96",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Collegio de Registradores Mercantile (Spanish Property & Commerce Registry)",
-        "certificate_name": "Registradores de Espa\u00f1a - CA Ra\u00edz",
-        "sha256": "7D2BF3489EBC9AD3448B8B0827715A3CBFE3D523E3B56A9B5FC1D2A2DA2F20FE",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -1542,12 +1462,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
@@ -1777,8 +1697,40 @@
     },
     {
         "owner": "DigiCert",
+        "certificate_name": "Symantec Class 1 Public Primary Certification Authority - G4",
+        "sha256": "363F3C849EAB03B0A2A0F636D7B86D04D3AC7FCFE26A0A9121AB9795F6E176DF",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
         "certificate_name": "Symantec Class 1 Public Primary Certification Authority - G6",
         "sha256": "9D190B2E314566685BE8A889E27AA8C7D7AE1D8AADDBA3C1ECF9D24863CD34B9",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "DigiCert",
+        "certificate_name": "Symantec Class 2 Public Primary Certification Authority - G4",
+        "sha256": "FE863D0822FE7A2353FA484D5924E875656D3DC9FB58771F6F616F9D571BC592",
         "web": {
             "apple": false,
             "chrome": false,
@@ -1904,22 +1856,6 @@
         }
     },
     {
-        "owner": "Digidentity B.V.",
-        "certificate_name": "Digidentity Services Root CA",
-        "sha256": "E28097721A8CAB8880AF80FDEF8902B1F15BC7473AD68EC22991257A910D9EA2",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "DigitalSign - Certificadora Digital, S.A.",
         "certificate_name": "DIGITALSIGN GLOBAL ROOT ECDSA CA",
         "sha256": "261D7114AE5F8FF2D8C7209A9DE4289E6AFC9D717023D85450909199F1857CFE",
@@ -2038,7 +1974,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2054,7 +1990,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2075,7 +2011,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2466,7 +2402,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2482,7 +2418,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2754,22 +2690,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GlobalSign",
         "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
         "web": {
             "apple": false,
@@ -2781,6 +2701,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GlobalSign",
+        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -2913,22 +2849,6 @@
     },
     {
         "owner": "Government of Brazil, Instituto Nacional de Tecnologia da Informa\u00e7\u00e3o (ITI)",
-        "certificate_name": "Autoridade Certificadora Raiz Brasileira v1",
-        "sha256": "CBD8ED38D4A2D677D453D70DD8890AF4F6374CBA6299943F1AB3A6936C6FD795",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Brazil, Instituto Nacional de Tecnologia da Informa\u00e7\u00e3o (ITI)",
         "certificate_name": "Autoridade Certificadora Raiz Brasileira v10",
         "sha256": "6E0BFF069A26994C15DE2C4888CC54AF84882E5495B7FBF66BE9CCFFEC7489F6",
         "web": {
@@ -2940,22 +2860,6 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Brazil, Instituto Nacional de Tecnologia da Informa\u00e7\u00e3o (ITI)",
-        "certificate_name": "Autoridade Certificadora Raiz Brasileira v2",
-        "sha256": "FB47D92A9909FD4FA9BEC02737543E1F3514CED747407A8D9CFA397B0915067C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
             "mozilla": false
         }
     },
@@ -3009,22 +2913,6 @@
     },
     {
         "owner": "Government of Finland, Population Register Centre\u2019s (V\u00e4est\u00f6rekisterikeskus, VRK)",
-        "certificate_name": "VRK Gov. Root CA",
-        "sha256": "F008733EC500DC498763CC9264C6FCEA40EC22000E927D053CE9C90BFA046CB2",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Finland, Population Register Centre\u2019s (V\u00e4est\u00f6rekisterikeskus, VRK)",
         "certificate_name": "VRK Gov. Root CA - G2",
         "sha256": "34FF2A4409DC1383E9F8966E8ADFE5719EBA373FD0AD5E2F49F90EE07CF5D4C1",
         "web": {
@@ -3068,38 +2956,6 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of India, Ministry of Communications & Information Technology, Controller of Certifying Authorities (CCA)",
-        "certificate_name": "CCA India 2014",
-        "sha256": "60109BC6C38328598A112C7A25E38B0F23E5A7511CB815FB64E0C4FF05DB7DF7",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of India, Ministry of Communications & Information Technology, Controller of Certifying Authorities (CCA)",
-        "certificate_name": "CCA India 2015 SPL",
-        "sha256": "C34C5DF53080078FFE45B21A7F600469917204F4F0293F1D7209393E5265C04F",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
             "mozilla": false
         }
     },
@@ -3158,12 +3014,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -3175,38 +3031,6 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Lithuania, Registru Centras",
-        "certificate_name": "RCSC RootCA",
-        "sha256": "7707BB2BE9F7CE057060B8308C3BC087B56529B3638EAF5B2A8049C8E15ED720",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Portugal, Sistema de Certifica\u00e7\u00e3o Electr\u00f3nica do Estado (SCEE) / Electronic Certification System of the State",
-        "certificate_name": "ECRaizEstado",
-        "sha256": "488E134F30C5DB56B76473E608086842BF21AF8AB3CD7AC67EBDF125D531834E",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -3232,54 +3056,6 @@
         }
     },
     {
-        "owner": "Government of South Africa, Post Office Trust Centre",
-        "certificate_name": "SAPO Class 2 Root CA",
-        "sha256": "FD7CCA48B745213470F503EC6E969C447FC12D4DD5AA2A7CC6C3D5ABBD962B33",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of South Africa, Post Office Trust Centre",
-        "certificate_name": "SAPO Class 3 Root CA",
-        "sha256": "1A2512CDA6744ABEA11432A2FDC9F8C088DB5A98C89E13352574CDE4D9E80CDD",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of South Africa, Post Office Trust Centre",
-        "certificate_name": "SAPO Class 4 Root CA",
-        "sha256": "6ED99F7D1B562E464A032C861DBB4137805377FA7F5683F0D4DA992B41306A6C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Government of Spain, Autoritat de Certificaci\u00f3 de la Comunitat Valenciana (ACCV)",
         "certificate_name": "ACCVRAIZ1",
         "sha256": "9A6EC012E1A7DA9DBE34194D478AD7C0DB1822FB071DF12981496ED104384113",
@@ -3292,22 +3068,6 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Spain, Direcci\u00f3n General de la Polic\u00eda \u2013 Ministerio del Interior \u2013 Espa\u00f1a.",
-        "certificate_name": "AC RAIZ DNIE",
-        "sha256": "739710C5245E33EC8A243A1B20048FC9D5F4528599213845C164D004B8B667F9",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
             "mozilla": false
         }
     },
@@ -3376,22 +3136,6 @@
         }
     },
     {
-        "owner": "Government of Spain, Ministerio de Trabajo e Inmigraci\u00f3n (MTIN)",
-        "certificate_name": "AC1 RAIZ MTIN",
-        "sha256": "5B1D9D24DE0AFEA8B35BA04A1C3E25D0812CDF7C4625DE0A89AF9FE4BBD1BB15",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Government of Sweden (F\u00f6rs\u00e4kringskassan)",
         "certificate_name": "Swedish Government Root Authority v3",
         "sha256": "8F9ADB6D895DAB5ADF5C3D3FAB83927BE0FB64EF82485C62280D584E8BD55D22",
@@ -3404,38 +3148,6 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
-        "certificate_name": "Government Root Certification Authority",
-        "sha256": "70B922BFDA0E3F4A342E4EE22D579AE598D071CC5EC9C30F123680340388AEA5",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Taiwan, Government Root Certification Authority (GRCA)",
-        "certificate_name": "Government Root Certification Authority",
-        "sha256": "7600295EEFE85B9E1FD624DB76062AAAAE59818A54D2774CD4C0B2C01131E1B3",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
             "mozilla": false
         }
     },
@@ -3480,22 +3192,6 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of Uruguay, Agency for E-Government and Information Society (AGESIC)",
-        "certificate_name": "Autoridad Certificadora Ra\u00edz Nacional de Uruguay",
-        "sha256": "5533A0401F612C688EBCE5BF53F2EC14A734EB178BFAE00E50E85DAE6723078A",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3622,12 +3318,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         }
     },
@@ -3638,12 +3334,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -3654,12 +3350,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": true
         }
     },
@@ -3696,9 +3392,9 @@
         }
     },
     {
-        "owner": "Inera AB (SITHS)",
-        "certificate_name": "SITHS Root CA v1",
-        "sha256": "FC50B26BDC4A8FDF1344CC80157AE13AC671E2706FACFC0605FE34E249EB72D6",
+        "owner": "Image-X Enterprises Inc",
+        "certificate_name": "esignit.org",
+        "sha256": "C665175BD60ED70A5EEA3344CBE5D1A6936F79BC27A8384E4C734200417C279F",
         "web": {
             "apple": false,
             "chrome": false,
@@ -3792,22 +3488,6 @@
         }
     },
     {
-        "owner": "Korea Information Security Agency (KISA)",
-        "certificate_name": "KISA RootCA 1",
-        "sha256": "6FDB3F76C8B801A75338D8A50A7C02879F6198B57E594D318D3832900FEDCD79",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Krajowa Izba Rozliczeniowa S.A. (KIR)",
         "certificate_name": "SZAFIR ROOT CA2",
         "sha256": "A1339D33281A0B56E557D3D32B1CE7F9367EB094BD5FA72A7E5004C8DED7CAFE",
@@ -3852,22 +3532,6 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "LuxTrust",
-        "certificate_name": "LuxTrust Global Root 2",
-        "sha256": "54455F7129C20B1447C418F997168F24C58FC5023BF5DA5BE2EB6E1DD8902ED5",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
             "mozilla": false
         }
     },
@@ -4192,61 +3856,29 @@
         }
     },
     {
-        "owner": "Network Solutions",
-        "certificate_name": "Network Solutions Certificate Authority",
-        "sha256": "001686CD181F83A1B1217D305B365C41E3470A78A1D37B134A98CD547B92DAB3",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Network Solutions",
-        "certificate_name": "Network Solutions ECC Certificate Authority",
-        "sha256": "2193CFEA381211A1AEAA2DE984E630643A87160B1208118145EAFB8E1BC69958",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Network Solutions",
-        "certificate_name": "Network Solutions RSA Certificate Authority",
-        "sha256": "DDBF149733BC2BF8A09D7F012B01A6DEA11D7BAE26713783EF6407A2495BF189",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "NISZ Nemzeti Infokommunik\u00e1ci\u00f3s Szolg\u00e1ltat\u00f3 Zrt.",
         "certificate_name": "F\u0151tan\u00fas\u00edtv\u00e1nykiad\u00f3 - Korm\u00e1nyzati Hiteles\u00edt\u00e9s Szolg\u00e1ltat\u00f3",
         "sha256": "C2157309D9AEE17BF34F4DF5E88DBAEBA57E0361EB814CBC239F4D54D329A38D",
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Notarius",
+        "certificate_name": "Notarius Root Certificate Authority",
+        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -4259,22 +3891,6 @@
         "owner": "Notarius",
         "certificate_name": "Notarius Root Certificate Authority",
         "sha256": "AAA15BDDB1C924AD7A7F22F89E5CD3E2C61407A064E011B7CF4CB618716449A4",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Notarius",
-        "certificate_name": "Notarius Root Certificate Authority",
-        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4403,38 +4019,6 @@
         "owner": "Open Access Technology International, Inc. (OATI)",
         "certificate_name": "OATI WebCARES Root CA",
         "sha256": "7A77C6C61EEEB9AA65C4EA410D65D895B26A81123283009DB104B48DE80B2479",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Post of Serbia",
-        "certificate_name": "Posta CA Root",
-        "sha256": "CD201256FE5CED0BFFF8DF595FFF36B1416D5313A999F532EF4A9915DF96DEE0",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "PostSignum",
-        "certificate_name": "PostSignum Root QCA 2",
-        "sha256": "AD016F958050E0E7E46FAE7DCC50197ED8E3FF0A4B262E5DDCDB3EDDDC7D6578",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4641,22 +4225,6 @@
     },
     {
         "owner": "SECOM Trust Systems CO., LTD.",
-        "certificate_name": "Security Communication RootCA1",
-        "sha256": "E75E72ED9F560EEC6EB4800073A43FC3AD19195A392282017895974A99026B6C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "SECOM Trust Systems CO., LTD.",
         "certificate_name": "Security Communication RootCA2",
         "sha256": "513B2CECB810D4CDE5DD85391ADFC6C2DD60D87BB736D2B521484AA47A0EBEF6",
         "web": {
@@ -4706,22 +4274,6 @@
     {
         "owner": "Sectigo",
         "certificate_name": "COMODO Certification Authority",
-        "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Sectigo",
-        "certificate_name": "COMODO Certification Authority",
         "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
         "web": {
             "apple": false,
@@ -4733,6 +4285,22 @@
             "apple": false,
             "microsoft": false,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Sectigo",
+        "certificate_name": "COMODO Certification Authority",
+        "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -5152,9 +4720,9 @@
         }
     },
     {
-        "owner": "SK ID Solutions AS",
-        "certificate_name": "EE Certification Centre Root CA",
-        "sha256": "3E84BA4342908516E77573C0992F0979CA084E4685681FF195CCBA8A229B8A76",
+        "owner": "Skaitmeninio sertifikavimo centras (SSC)",
+        "certificate_name": "SSC GDL CA VS Root",
+        "sha256": "BC2ABBC49A6814370D17E471141C22794311C4DDDF2567BE37283A894392E5D3",
         "web": {
             "apple": false,
             "chrome": false,
@@ -5163,7 +4731,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
@@ -5393,22 +4961,6 @@
     },
     {
         "owner": "SwissSign AG",
-        "certificate_name": "SwissSign Platinum CA - G2",
-        "sha256": "3B222E566711E992300DC0B15AB9473DAFDEF8C84D0CEF7D3317B4C1821D1436",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "SwissSign AG",
         "certificate_name": "SwissSign RSA SMIME Root CA 2022 - 1",
         "sha256": "9A12C392BFE57891A0C545309D4D9FD567E480CB613D6342278B195C79A7931F",
         "web": {
@@ -5520,13 +5072,61 @@
         }
     },
     {
-        "owner": "Telekom Applied Business Malaysia (TMCA)",
-        "certificate_name": "TM Applied Business Root Certificate",
-        "sha256": "A9C77AF1BCDFAA3739442B0B2734C68EAF2E9833F0D766FBCAA6F2AEB42DEC02",
+        "owner": "Telia Company",
+        "certificate_name": "Telia EC Client Root CA v3",
+        "sha256": "CCF6A7C3881928CFB1DBEBD74EABA50D3BC69633C106274D2C221ECCEE697E87",
         "web": {
             "apple": false,
             "chrome": false,
             "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia EC Email Root CA v3",
+        "sha256": "3682228D7D678B571440CF1CB34E69FB4135FD6C2A1BE38E14163B711E02AE01",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia EC Signing Root CA v3",
+        "sha256": "2C4E9B0F8D0FCDC308C077E30DD2349DAF871FB3A37214859C486189A9F80ADB",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia EC TLS Root CA v3",
+        "sha256": "098E08A91DBBF77478B96CCEB89B1413A5DA37B7C862606A955DEB07179F4326",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
@@ -5549,6 +5149,70 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia RSA Client Root CA v3",
+        "sha256": "6485F6E060934AF413EC54B9C65F87BD231929ECFA11DE522BAD8DC64F001571",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia RSA Email Root CA v3",
+        "sha256": "5B0C502A7D963BA55217396FDA9B3DC78171000AEEFF42CECC3A20A7938163E8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia RSA Signing Root CA v3",
+        "sha256": "C2FB44D8DEF85126D84FC41FBE667BC811F0D633411CAC26D13FBD95EA5BE603",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Telia Company",
+        "certificate_name": "Telia RSA TLS Root CA v3",
+        "sha256": "D13DB1294C45EBC6FC86C6BBF69FA29BDFE692DFF7C713C243C7A956C6A2284C",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
         }
     },
     {
@@ -5680,54 +5344,6 @@
         }
     },
     {
-        "owner": "TrustCor Systems",
-        "certificate_name": "TrustCor ECA-1",
-        "sha256": "5A885DB19C01D912C5759388938CAFBBDF031AB2D48E91EE15589B42971D039C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "TrustCor Systems",
-        "certificate_name": "TrustCor RootCert CA-1",
-        "sha256": "D40E9C86CD8FE468C1776959F49EA774FA548684B6C406F3909261F4DCE2575C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "TrustCor Systems",
-        "certificate_name": "TrustCor RootCert CA-2",
-        "sha256": "0753E940378C1BD5E3836E395DAEA5CB839E5046F1BD0EAE1951CF10FEC7C965",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "TrustFactory(Pty)Ltd",
         "certificate_name": "TrustFactory Client Root Certificate Authority",
         "sha256": "92C4DB06C42A130D663574D7741B7F93C806FD6714DCE890E84B568FAE86E64C",
@@ -5744,34 +5360,18 @@
         }
     },
     {
-        "owner": "TrustFactory(Pty)Ltd",
-        "certificate_name": "TrustFactory SSL Root Certificate Authority",
-        "sha256": "608142DA5C675DD47C1AA3A26EE329E24E81D5FF3B94017BC1C1A0C37DB4C1A0",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Trustis",
         "certificate_name": "Trustis FPS Root CA",
         "sha256": "C1B48299ABA5208FE9630ACE55CA68A03EDA5A519C8802A0D3A673BE8F8E557D",
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
