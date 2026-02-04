@@ -3575,7 +3575,7 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
