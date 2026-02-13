@@ -256,7 +256,7 @@
         }
     },
     {
-        "owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum CA",
         "sha256": "D8E0FEBC1DB2E38D00940F37D27D41344D993E734B99D5656D9778D4D8143624",
         "web": {
@@ -272,7 +272,7 @@
         }
     },
     {
-        "owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum EC-384 CA",
         "sha256": "6B328085625318AA50D173C98D8BDA09D57E27413D114CF787A0F5D06C030CF6",
         "web": {
@@ -288,7 +288,7 @@
         }
     },
     {
-        "owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum Trusted Network CA",
         "sha256": "5C58468D55F58E497E743982D2B50010B6D165374ACF83A7D4A32DB768C4408E",
         "web": {
@@ -304,7 +304,7 @@
         }
     },
     {
-        "owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum Trusted Network CA 2",
         "sha256": "B676F2EDDAE8775CD36CB0F63CD1D4603961F49E6265BA013A2F0307B6D0B804",
         "web": {
@@ -320,7 +320,7 @@
         }
     },
     {
-        "owner": "Asseco Data Systems S.A. (previously Unizeto Certum)",
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum Trusted Root CA",
         "sha256": "FE7696573855773E37A95E7AD4D9CC96C30157C15D31765BA9B15704E1AE78FD",
         "web": {
