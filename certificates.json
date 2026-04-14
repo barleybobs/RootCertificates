@@ -3040,22 +3040,6 @@
         }
     },
     {
-        "owner": "Government of Saudi Arabia, NIC (SDAIA)",
-        "certificate_name": "Saudi National Root CA",
-        "sha256": "34BB34E14FAED0D3392F2FC441C0ECD5FD88AD88118DF2D1BA76CDEC1EEA10B8",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Government of Spain, Autoritat de Certificaci\u00f3 de la Comunitat Valenciana (ACCV)",
         "certificate_name": "ACCVRAIZ1",
         "sha256": "9A6EC012E1A7DA9DBE34194D478AD7C0DB1822FB071DF12981496ED104384113",
@@ -4124,6 +4108,22 @@
         "email": {
             "apple": false,
             "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+        "certificate_name": "Saudi National Root CA",
+        "sha256": "34BB34E14FAED0D3392F2FC441C0ECD5FD88AD88118DF2D1BA76CDEC1EEA10B8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
