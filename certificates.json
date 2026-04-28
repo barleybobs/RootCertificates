@@ -2370,7 +2370,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2386,7 +2386,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2674,22 +2674,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GlobalSign",
         "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
         "web": {
             "apple": false,
@@ -2705,13 +2689,13 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R1",
-        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "certificate_name": "GlobalSign",
+        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2728,6 +2712,22 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R1",
+        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3569,22 +3569,6 @@
     },
     {
         "owner": "Microsoft Corporation",
-        "certificate_name": "Microsoft ECC Product Root Certificate Authority 2018",
-        "sha256": "CACA93B9D23D2B6FA76E8B8471931E0DF3EC6F63AF3CDBB936C41954A1872326",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Microsoft Corporation",
         "certificate_name": "Microsoft ECC Root Certificate Authority 2017",
         "sha256": "358DF39D764AF9E1B766E9C972DF352EE15CFAC227AF6AD1D70E8E4A6EDCBA02",
         "web": {
@@ -3592,22 +3576,6 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Microsoft Corporation",
-        "certificate_name": "Microsoft ECC TS Root Certificate Authority 2018",
-        "sha256": "3FD4BE8BAAD2F26E1BDE06C7584BB720DD1A972D111F5A4999BC44B08FB4960D",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3633,38 +3601,6 @@
     },
     {
         "owner": "Microsoft Corporation",
-        "certificate_name": "Microsoft Root Certificate Authority 2010",
-        "sha256": "DF545BF919A2439C36983B54CDFC903DFA4F37D3996D8D84B4C31EEC6F3C163E",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Microsoft Corporation",
-        "certificate_name": "Microsoft Root Certificate Authority 2011",
-        "sha256": "847DF6A78497943F27FC72EB93F9A637320A02B561D0A91B09E87A7807ED7C61",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Microsoft Corporation",
         "certificate_name": "Microsoft RSA Root Certificate Authority 2017",
         "sha256": "C741F70F4B2A8D88BF2E71C14122EF53EF10EBA0CFA5E64CFA20F418853073E0",
         "web": {
@@ -3672,22 +3608,6 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Microsoft Corporation",
-        "certificate_name": "Microsoft Time Stamp Root Certificate Authority 2014",
-        "sha256": "65AF95F4BE86847344634282F941B2E605063EF0C8542F014CA088D182109E4F",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
         },
         "email": {
             "apple": false,
