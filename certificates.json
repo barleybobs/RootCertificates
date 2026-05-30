@@ -2370,6 +2370,22 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "GlobalSign nv-sa",
+        "certificate_name": "GlobalSign",
         "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
@@ -2387,22 +2403,6 @@
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
         "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "GlobalSign nv-sa",
-        "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2608,6 +2608,22 @@
         }
     },
     {
+        "owner": "GlobalSign nv-sa",
+        "certificate_name": "GlobalSign Verified Mark Root R42",
+        "sha256": "CD122CB877C6928B9017B0F0B80DBD508196300BBD03CD7356C3BEEF524E7E0B",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "GoDaddy",
         "certificate_name": "Go Daddy Class 2 Certification Authority",
         "sha256": "C3846BF24B9E93CA64274C0EC67C1ECC5E024FFCACD2D74019350E81FE546AE4",
@@ -2738,6 +2754,22 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R2",
+        "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R2",
         "sha256": "8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8",
         "web": {
             "apple": false,
@@ -2753,8 +2785,8 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R2",
-        "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
+        "certificate_name": "GTS Root R3",
+        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
             "apple": false,
             "chrome": false,
@@ -2776,22 +2808,6 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
-        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
         },
         "email": {
             "apple": false,
