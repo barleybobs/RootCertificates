@@ -791,7 +791,7 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -844,7 +844,7 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         }
     },
     {
@@ -4295,7 +4295,7 @@
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -5276,7 +5276,7 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
@@ -5292,7 +5292,7 @@
         "email": {
             "apple": false,
             "microsoft": false,
-            "mozilla": true
+            "mozilla": false
         }
     },
     {
