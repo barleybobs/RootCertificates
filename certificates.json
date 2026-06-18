@@ -33,22 +33,6 @@
     },
     {
         "owner": "AC Camerfirma, S.A.",
-        "certificate_name": "Chambers of Commerce Root",
-        "sha256": "0C258A12A5674AEF25F28BA7DCFAECEEA348E541E6F5CC4EE63B71B361606AC3",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "AC Camerfirma, S.A.",
         "certificate_name": "Chambers of Commerce Root - 2008",
         "sha256": "063E4AFAC491DFD332F3089B8542E94617D893D7FE944E10A7937EE29D9693C0",
         "web": {
@@ -150,12 +134,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -166,12 +150,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -338,22 +322,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
         "web": {
             "apple": false,
@@ -368,14 +336,14 @@
         }
     },
     {
-        "owner": "Autoridad de Certificaci\u00f3n (ANF AC)",
-        "certificate_name": "ANF Global Root CA",
-        "sha256": "E0E17AEA06CF9CE12AAE8190345A2C59720130A7D8FF72F3745AD75DBAA365B6",
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -491,7 +459,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -790,12 +758,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -859,7 +827,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -1441,22 +1409,6 @@
     },
     {
         "owner": "DigiCert",
-        "certificate_name": "GeoTrust Universal CA",
-        "sha256": "A0459B9F63B22559F5FA5D4C6DB3F9F72FF19342033578F073BF1D1B46CBB912",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "DigiCert",
         "certificate_name": "Hotspot 2.0 Trust Root CA - 03",
         "sha256": "A3CC68595DFE7E86D8AD1772A8B5284ADD54ACE3B8A798DF47BCCAFB1FDB84DF",
         "web": {
@@ -1681,40 +1633,8 @@
     },
     {
         "owner": "DigiCert",
-        "certificate_name": "Symantec Class 1 Public Primary Certification Authority - G4",
-        "sha256": "363F3C849EAB03B0A2A0F636D7B86D04D3AC7FCFE26A0A9121AB9795F6E176DF",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "DigiCert",
         "certificate_name": "Symantec Class 1 Public Primary Certification Authority - G6",
         "sha256": "9D190B2E314566685BE8A889E27AA8C7D7AE1D8AADDBA3C1ECF9D24863CD34B9",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "DigiCert",
-        "certificate_name": "Symantec Class 2 Public Primary Certification Authority - G4",
-        "sha256": "FE863D0822FE7A2353FA484D5924E875656D3DC9FB58771F6F616F9D571BC592",
         "web": {
             "apple": false,
             "chrome": false,
@@ -2370,7 +2290,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2386,7 +2306,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2690,22 +2610,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GlobalSign",
         "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
         "web": {
             "apple": false,
@@ -2721,13 +2625,13 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R1",
-        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
+        "certificate_name": "GlobalSign",
+        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -2753,13 +2657,13 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R2",
-        "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
+        "certificate_name": "GTS Root R1",
+        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2781,6 +2685,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R2",
+        "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -3104,22 +3024,6 @@
         }
     },
     {
-        "owner": "Government of Spain, F\u00e1brica Nacional de Moneda y Timbre (FNMT)",
-        "certificate_name": "FNMT Clase 2 CA",
-        "sha256": "62B9267266212832A8E22DAB933D91C7011274ACF71703F9CC97833751A6E94F",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Government of Sweden (F\u00f6rs\u00e4kringskassan)",
         "certificate_name": "Swedish Government Root Authority v3",
         "sha256": "8F9ADB6D895DAB5ADF5C3D3FAB83927BE0FB64EF82485C62280D584E8BD55D22",
@@ -3132,22 +3036,6 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Government of The Netherlands, PKIoverheid (Logius)",
-        "certificate_name": "Staat der Nederlanden EV Root CA",
-        "sha256": "4D2491414CFE956746EC4CEFA6CF6F72E28A1329432F9D8A907AC4CB5DADC15A",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
             "mozilla": false
         }
     },
@@ -3302,12 +3190,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
             "apple": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         }
     },
@@ -3334,12 +3222,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         },
         "email": {
             "apple": false,
-            "microsoft": false,
+            "microsoft": true,
             "mozilla": true
         }
     },
@@ -3373,22 +3261,6 @@
             "apple": false,
             "microsoft": true,
             "mozilla": true
-        }
-    },
-    {
-        "owner": "Image-X Enterprises Inc",
-        "certificate_name": "esignit.org",
-        "sha256": "C665175BD60ED70A5EEA3344CBE5D1A6936F79BC27A8384E4C734200417C279F",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
         }
     },
     {
@@ -3740,22 +3612,6 @@
         "email": {
             "apple": false,
             "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Nets DanID",
-        "certificate_name": "TRUST2408 OCES Primary CA",
-        "sha256": "92D8092EE77BC9208F0897DC05271894E63EF27933AE537FB983EEF0EAE3EEC8",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
             "mozilla": false
         }
     },
@@ -4194,22 +4050,6 @@
     {
         "owner": "Sectigo",
         "certificate_name": "COMODO Certification Authority",
-        "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Sectigo",
-        "certificate_name": "COMODO Certification Authority",
         "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
         "web": {
             "apple": false,
@@ -4221,6 +4061,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Sectigo",
+        "certificate_name": "COMODO Certification Authority",
+        "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": true
         }
     },
     {
@@ -4640,22 +4496,6 @@
         }
     },
     {
-        "owner": "Skaitmeninio sertifikavimo centras (SSC)",
-        "certificate_name": "SSC GDL CA VS Root",
-        "sha256": "BC2ABBC49A6814370D17E471141C22794311C4DDDF2567BE37283A894392E5D3",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "SSL.com",
         "certificate_name": "Secure Global CA",
         "sha256": "4200F5043AC8590EBB527D209ED1503029FBCBD41CA1B506EC27F15ADE7DAC69",
@@ -5014,12 +4854,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -5367,22 +5207,6 @@
             "apple": false,
             "chrome": false,
             "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Trustis",
-        "certificate_name": "Trustis FPS Root CA",
-        "sha256": "C1B48299ABA5208FE9630ACE55CA68A03EDA5A519C8802A0D3A673BE8F8E557D",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
             "mozilla": false
         },
         "email": {
