@@ -320,6 +320,86 @@
         }
     },
     {
+        "owner": "Atos",
+        "certificate_name": "Atos TrustedRoot 2011",
+        "sha256": "F356BEA244B7A91EB35D53CA9AD7864ACE018E2D35D5F8F96DDF68A6F41AA474",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "Atos",
+        "certificate_name": "Atos TrustedRoot Root CA ECC G2 2020",
+        "sha256": "E38655F4B0190C84D3B3893D840A687E190A256D98052F159E6D4A39F589A6EB",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "Atos",
+        "certificate_name": "Atos TrustedRoot Root CA ECC TLS 2021",
+        "sha256": "B2FAE53E14CCD7AB9212064701AE279C1D8988FACB775FA8A008914E663988A8",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Atos",
+        "certificate_name": "Atos TrustedRoot Root CA RSA G2 2020",
+        "sha256": "78833A783BB2986C254B9370D3C20E5EBA8FA7840CBF63FE17297A0B0119685E",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "Atos",
+        "certificate_name": "Atos TrustedRoot Root CA RSA TLS 2021",
+        "sha256": "81A9088EA59FB364C548A6F85559099B6F0405EFBF18E5324EC9F457BA00112F",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
@@ -2176,86 +2256,6 @@
         }
     },
     {
-        "owner": "Eviden",
-        "certificate_name": "Atos TrustedRoot 2011",
-        "sha256": "F356BEA244B7A91EB35D53CA9AD7864ACE018E2D35D5F8F96DDF68A6F41AA474",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Eviden",
-        "certificate_name": "Atos TrustedRoot Root CA ECC G2 2020",
-        "sha256": "E38655F4B0190C84D3B3893D840A687E190A256D98052F159E6D4A39F589A6EB",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Eviden",
-        "certificate_name": "Atos TrustedRoot Root CA ECC TLS 2021",
-        "sha256": "B2FAE53E14CCD7AB9212064701AE279C1D8988FACB775FA8A008914E663988A8",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Eviden",
-        "certificate_name": "Atos TrustedRoot Root CA RSA G2 2020",
-        "sha256": "78833A783BB2986C254B9370D3C20E5EBA8FA7840CBF63FE17297A0B0119685E",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Eviden",
-        "certificate_name": "Atos TrustedRoot Root CA RSA TLS 2021",
-        "sha256": "81A9088EA59FB364C548A6F85559099B6F0405EFBF18E5324EC9F457BA00112F",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": false
-        }
-    },
-    {
         "owner": "Financijska agencija (Fina)",
         "certificate_name": "Fina Root CA",
         "sha256": "5AB4FCDB180B5B6AF0D262A2375A2C77D25602015D96648756611E2E78C53AD3",
@@ -2306,7 +2306,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2322,7 +2322,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2610,12 +2610,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
+        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -2626,12 +2626,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GlobalSign",
-        "sha256": "BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C",
+        "sha256": "B085D70B964F191A73E4AF0D54AE7A0E07AAFDAF9B71DD0862138AB7325A24A2",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2674,22 +2674,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R2",
-        "sha256": "8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R2",
         "sha256": "C45D7BB08E6D67E62E4235110B564E5F78FD92EF058C840AEA4E6455D7585C60",
         "web": {
             "apple": false,
@@ -2701,6 +2685,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R2",
+        "sha256": "8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
         }
     },
     {
