@@ -325,7 +325,7 @@
         "sha256": "F356BEA244B7A91EB35D53CA9AD7864ACE018E2D35D5F8F96DDF68A6F41AA474",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
             "mozilla": true
         },
@@ -3701,7 +3701,7 @@
         "sha256": "EEC997C0C30F216F7E3B8B307D2BAE42412D753FC8219DAFD1520B2572850F49",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": false,
             "mozilla": true
         },
@@ -3717,7 +3717,7 @@
         "sha256": "9AE36232A5189FFDDB353DFD26520C015395D22777DAC59DB57B98C089A651E6",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": false,
             "mozilla": true
         },
@@ -4053,7 +4053,7 @@
         "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
