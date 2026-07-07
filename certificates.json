@@ -112,6 +112,134 @@
         }
     },
     {
+        "owner": "Actalis",
+        "certificate_name": "Actalis Code Signing ECC Root CA 2025",
+        "sha256": "7EF55518DE6350C3CC618A9837CBAD65DDB6EEF652F79DA71C69F6B8919D3A12",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis Code Signing RSA Root CA 2025",
+        "sha256": "041C6215F8DF4137DF0F3FC23A0009B46E75AC4619F811727076BAA8FE5008C9",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis SMIME ECC Root CA 2025",
+        "sha256": "3347EEA8149CD3F6B7796CCAAD234ADA294372F7B1EA49F87F5ADB11C8581624",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis SMIME RSA Root CA 2025",
+        "sha256": "F1B7C8A8F447B395786E325AF0A7571203F3812400FF1905FCA7726B858FC44A",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis Time Stamping ECC Root CA 2025",
+        "sha256": "5BB2824AA8D9068FD87E4713434B9EF543669DC95BA9080E7C9B6682333482FE",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis Time Stamping RSA Root CA 2025",
+        "sha256": "C40621D2F61C51CE082A8697653D966441A52AAA6523482ED93F87A07EA8BF30",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis TLS Server ECC Root CA 2025",
+        "sha256": "4EFAADA2543E1E02666998574B3BAD96AE264088FA5917F75D32E7A609D1869C",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Actalis",
+        "certificate_name": "Actalis TLS Server RSA Root CA 2025",
+        "sha256": "6D0E47DFDE7CF48308CD4C6C1517DD1AF033DCC72BB0501C04268B03B58A9085",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "Agence Nationale de Certification Electronique",
         "certificate_name": "TunTrust Root CA",
         "sha256": "2E44102AB58CB85419451C8E19D9ACF3662CAFBC614B6A53960A30F7D0E2EB41",
@@ -273,6 +401,38 @@
     },
     {
         "owner": "Asseco Data Systems S.A.",
+        "certificate_name": "Certum TLS ECC Root CA",
+        "sha256": "630CCB83B0180A992495E039D2613C3287A8102F8A8D703DB1330A3E86D4E653",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Asseco Data Systems S.A.",
+        "certificate_name": "Certum TLS RSA Root CA",
+        "sha256": "ED12A6E9289239D66CA1D244CE90C623AC305AD05602DA352BCFC5FEF2C4458D",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Asseco Data Systems S.A.",
         "certificate_name": "Certum Trusted Network CA",
         "sha256": "5C58468D55F58E497E743982D2B50010B6D165374ACF83A7D4A32DB768C4408E",
         "web": {
@@ -402,22 +562,6 @@
     {
         "owner": "Autoridad de Certificacion Firmaprofesional",
         "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
-        "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Autoridad de Certificacion Firmaprofesional",
-        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
         "sha256": "57DE0583EFD2B26E0361DA99DA9DF4648DEF7EE8441C3B728AFA9BCDE0F9B26A",
         "web": {
             "apple": false,
@@ -428,6 +572,22 @@
         "email": {
             "apple": false,
             "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Autoridad de Certificacion Firmaprofesional",
+        "certificate_name": "Autoridad de Certificacion Firmaprofesional CIF A62634068",
+        "sha256": "04048028BF1F2864D48F9AD4D83294366A828856553F3B14303F90147F5D40EF",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
             "mozilla": false
         }
     },
@@ -1888,6 +2048,38 @@
         }
     },
     {
+        "owner": "Disig, a.s.",
+        "certificate_name": "CA Disig SMIME Root R4",
+        "sha256": "6AF177B41E97D40C9EA25203533E55C408632E9BD8A4809551001DFF2DC9479B",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Disig, a.s.",
+        "certificate_name": "CA Disig TLS Root R3",
+        "sha256": "6248199FEA4811FD34AA96EF0A26DE52134B73A9A2A99678F0C2EBADF8663EF8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "Docaposte Certinomis SAS",
         "certificate_name": "Certinomis - Root CA",
         "sha256": "2A99F5BC1174B73CBB1D620884E01C34E51CCB3978DA125F0E33268883BF4158",
@@ -2112,6 +2304,166 @@
         }
     },
     {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root Client Auth CA - G1",
+        "sha256": "8ABFC40FAEAF13CBC8BB67B61C8D097A321CD2FEE047C54256927E0F8BFEADFD",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root Client Auth CA - G3",
+        "sha256": "BBD8B3D745EFB79198D93B9C482B9D934537325729EA2F02C129261F91BE2E3D",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root CS CA - G2",
+        "sha256": "0D74EF67C88DE3560365E225AEF976F915E901347B73352D81AB5B4132BB2150",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root CS CA - G3",
+        "sha256": "F2EDAAFF3D9B701FB4D14C9F285F8C0BAD90FC3BCC1FA07D47F4718EDABA34A5",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root SMIME CA - G1",
+        "sha256": "47911BC8F32A11B029E0BB10A348B459404B87731B870A2F3FA97B4705DC4C25",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root SMIME CA - G3",
+        "sha256": "F76A0D440C418DC5B362BE8E11E0A5D06023F4396093E4F455827BF55153D8A4",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root TLS CA - G1",
+        "sha256": "CEF71E70B7C29ADDF6C30CD19E614B38FD5F02A435A0EEDDD0087E183D101A51",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root TLS CA - G3",
+        "sha256": "7DD78D5F4F13459A83DFF9ABBBA62EDBAF6F2D102BF257FD712F4D9F2746ED8D",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root TSA CA - G2",
+        "sha256": "1997770A5633FB6D0440ABF7D7E87E15D795F094F8C2959DADB00E785866BF48",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "eMudhra Technologies Limited",
+        "certificate_name": "emSign Root TSA CA - G3",
+        "sha256": "75D2CE75979CF2A43B172C9F89F733DDA2136031DB4BBF3698B053714C077155",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "Entrust",
         "certificate_name": "AffirmTrust 4K TLS Root CA - 2022",
         "sha256": "A7DEDF5A842167DD12FDAA0F2080E73295B8B8BEA71B2094EA0950945A482FC1",
@@ -2306,7 +2658,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2322,7 +2674,7 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
-        "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -2577,6 +2929,22 @@
     },
     {
         "owner": "GoDaddy",
+        "certificate_name": "GoDaddy TLS Root CA - R1",
+        "sha256": "25CF3DA8E9B97ADDBF92543C2B82527C8A4E2CFF2062A6483040D4B64ACE719F",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "GoDaddy",
         "certificate_name": "Starfield Class 2 Certification Authority",
         "sha256": "1465FA205397B876FAA6F0A9958E5590E40FCC7FAA4FB7C2C8677521FB5FB658",
         "web": {
@@ -2604,6 +2972,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "GoDaddy",
+        "certificate_name": "Starfield TLS Root CA - R1",
+        "sha256": "97366DA00BAF6730A84D1A8CBA5BAD7961C46BCE707E09241CC9C4C7E3C64F10",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2642,12 +3026,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2658,12 +3042,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
+        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -2706,12 +3090,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
+        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -2722,12 +3106,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
+        "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3024,6 +3408,22 @@
         }
     },
     {
+        "owner": "Government of Spain, F\u00e1brica Nacional de Moneda y Timbre (FNMT)",
+        "certificate_name": "AC RAIZ FNMT-RCM SERVIDORES SEGUROS G2R",
+        "sha256": "FC23DDFB7AA505D605B2F492FA1587E3738A074A17C0CF06FADFC725650FA42A",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "Government of Sweden (F\u00f6rs\u00e4kringskassan)",
         "certificate_name": "Swedish Government Root Authority v3",
         "sha256": "8F9ADB6D895DAB5ADF5C3D3FAB83927BE0FB64EF82485C62280D584E8BD55D22",
@@ -3249,6 +3649,150 @@
     },
     {
         "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root Client-Auth ECC CA 2",
+        "sha256": "21E9B3A3A7957B52BF5B9A113CDE238619DEC8B068735152EAA9B996BA5B8575",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root Client-Auth RSA CA 2",
+        "sha256": "4F4D24CCFBBECD50C4FCCF0FCF07D7906003AC07E6C8B912012733DE6DD35542",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root Code Signing RSA CA 2",
+        "sha256": "BC7C4E46DA2DCF0C25866027B7D164D8EA0D2E82DECA3B520A67070947B7B5D4",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root SMIME ECC CA 2",
+        "sha256": "3B48B18D6F20B2369A7D4056A0F5736E7650D653802305A50E83B9C3376D9E18",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root SMIME RSA CA 2",
+        "sha256": "53850DBA0B62839FED4C0E3E1B95CB7E9C4CF2ED7C3E5AE2D3D3F535EB5A2653",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root Timestamp ECC CA 2",
+        "sha256": "7BA2E6514976AF28A6001CDA8EADE532F7A1AAAF25E4731DF8A04DB00E7801CA",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root Timestamp RSA CA 2",
+        "sha256": "D309931736C8F5AAF3C20ADA97FDAF11B5E2D7FD174DC97286ACD613A40AEA55",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root TLS ECC CA 2",
+        "sha256": "983D826BA9C87F653FF9E8384C5413E1D59ACF19DDC9C98CECAE5FDEA2AC229C",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
+        "certificate_name": "IdenTrust Commercial Root TLS RSA CA 2",
+        "sha256": "4C53D6746D9502530D235A82F9CF8382F5779D5DDDDBD373ABE1724FC1EFE796",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "IdenTrust Services, LLC",
         "certificate_name": "IdenTrust Public Sector Root CA 1",
         "sha256": "30D0895A9A448A262091635522D1F52010B5867ACAE12C78EF958FD4F4389F2F",
         "web": {
@@ -3409,6 +3953,22 @@
     },
     {
         "owner": "Microsec Ltd.",
+        "certificate_name": "e-Szigno CodeSigning Root CA 2024",
+        "sha256": "5AF98353650C2AC49961F51883600AE5C61101035CDD7782822322127FACEC6D",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Microsec Ltd.",
         "certificate_name": "e-Szigno Root CA 2017",
         "sha256": "BEB00B30839B9BC32C32E4447905950641F26421B15ED089198B518AE2EA1B99",
         "web": {
@@ -3425,6 +3985,22 @@
     },
     {
         "owner": "Microsec Ltd.",
+        "certificate_name": "e-Szigno SMIME Root CA 2024",
+        "sha256": "7A422EC237B4DA7D326C232278F6DBE329B0C9ED5A56AAFCC110A8BC83ED0A96",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Microsec Ltd.",
         "certificate_name": "e-Szigno TLS Root CA 2023",
         "sha256": "B49141502D00663D740F2E7EC340C52800962666121A36D09CF7DD2B90384FB4",
         "web": {
@@ -3432,6 +4008,22 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Microsec Ltd.",
+        "certificate_name": "e-Szigno TSA Root CA 2024",
+        "sha256": "3D4FB84E009C3A6EDC4389DFE9BE9A22391DBD9ABA19417D0D2A9BA102F0BCC8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3792,6 +4384,22 @@
         }
     },
     {
+        "owner": "Open Access Technology International, Inc. (OATI)",
+        "certificate_name": "OATI webCARES Server Root CA",
+        "sha256": "30F4E5DD679FDE8FD11EB6E0C531615C438B06EDD9F59CBAB49680AA2B6990D9",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
         "owner": "PostSignum",
         "certificate_name": "PostSignum Root QCA 4",
         "sha256": "AC7F7862E685C7A7D9826A58EA32D183D4893FCC8F8FD6D900C9769A987E77F0",
@@ -4050,22 +4658,6 @@
     {
         "owner": "Sectigo",
         "certificate_name": "COMODO Certification Authority",
-        "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Sectigo",
-        "certificate_name": "COMODO Certification Authority",
         "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
         "web": {
             "apple": false,
@@ -4077,6 +4669,22 @@
             "apple": false,
             "microsoft": false,
             "mozilla": true
+        }
+    },
+    {
+        "owner": "Sectigo",
+        "certificate_name": "COMODO Certification Authority",
+        "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
         }
     },
     {
@@ -5100,6 +5708,22 @@
         "email": {
             "apple": false,
             "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Thailand National Root Certificate Authority (Electronic Transactions Development Agency)",
+        "certificate_name": "Thailand National Root Certification Authority - G3",
+        "sha256": "3D2794A0539486A83E8032CF14FE886553E52239CBAEC1B9CFEF5595ADBBF444",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
             "mozilla": false
         }
     },
