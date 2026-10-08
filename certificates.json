@@ -715,7 +715,7 @@
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -806,12 +806,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -1329,22 +1329,6 @@
     },
     {
         "owner": "DigiCert",
-        "certificate_name": "Baltimore CyberTrust Root",
-        "sha256": "16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "DigiCert",
         "certificate_name": "DigiCert Assured ID Root CA",
         "sha256": "3E9099B5015E8F486C00BCEA9D111EE721FABA355A89BCF1DF69561E3DC6325C",
         "web": {
@@ -1654,12 +1638,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2470,7 +2454,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2486,12 +2470,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2502,12 +2486,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2518,12 +2502,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2534,12 +2518,12 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
             "apple": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         }
     },
@@ -2550,7 +2534,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2566,7 +2550,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2582,7 +2566,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2598,7 +2582,7 @@
         "web": {
             "apple": false,
             "chrome": false,
-            "microsoft": true,
+            "microsoft": false,
             "mozilla": false
         },
         "email": {
@@ -2642,6 +2626,22 @@
     {
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
+        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
+        "web": {
+            "apple": false,
+            "chrome": true,
+            "microsoft": true,
+            "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": true
+        }
+    },
+    {
+        "owner": "GlobalSign nv-sa",
+        "certificate_name": "GlobalSign",
         "sha256": "179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924",
         "web": {
             "apple": false,
@@ -2659,22 +2659,6 @@
         "owner": "GlobalSign nv-sa",
         "certificate_name": "GlobalSign",
         "sha256": "2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69",
-        "web": {
-            "apple": false,
-            "chrome": true,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "GlobalSign nv-sa",
-        "certificate_name": "GlobalSign",
-        "sha256": "CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B",
         "web": {
             "apple": false,
             "chrome": true,
@@ -3026,12 +3010,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
+        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
-            "mozilla": true
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -3042,12 +3026,12 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R1",
-        "sha256": "2A575471E31340BC21581CBD2CF13E158463203ECE94BCF9D3CC196BF09A5472",
+        "sha256": "D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF",
         "web": {
             "apple": false,
-            "chrome": false,
+            "chrome": true,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -3090,22 +3074,6 @@
     {
         "owner": "Google Trust Services LLC",
         "certificate_name": "GTS Root R3",
-        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": true
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R3",
         "sha256": "15D5B8774619EA7D54CE1CA6D0B0C403E037A917F131E8A04E1E6B7A71BABCE5",
         "web": {
             "apple": false,
@@ -3121,13 +3089,13 @@
     },
     {
         "owner": "Google Trust Services LLC",
-        "certificate_name": "GTS Root R4",
-        "sha256": "71CCA5391F9E794B04802530B363E121DA8A3043BB26662FEA4DCA7FC951A4BD",
+        "certificate_name": "GTS Root R3",
+        "sha256": "34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48",
         "web": {
             "apple": false,
             "chrome": false,
             "microsoft": true,
-            "mozilla": false
+            "mozilla": true
         },
         "email": {
             "apple": false,
@@ -3144,6 +3112,22 @@
             "chrome": true,
             "microsoft": true,
             "mozilla": true
+        },
+        "email": {
+            "apple": false,
+            "microsoft": true,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Google Trust Services LLC",
+        "certificate_name": "GTS Root R4",
+        "sha256": "71CCA5391F9E794B04802530B363E121DA8A3043BB26662FEA4DCA7FC951A4BD",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": true,
+            "mozilla": false
         },
         "email": {
             "apple": false,
@@ -4226,7 +4210,7 @@
     {
         "owner": "Notarius",
         "certificate_name": "Notarius Root Certificate Authority",
-        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
+        "sha256": "AAA15BDDB1C924AD7A7F22F89E5CD3E2C61407A064E011B7CF4CB618716449A4",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4242,7 +4226,7 @@
     {
         "owner": "Notarius",
         "certificate_name": "Notarius Root Certificate Authority",
-        "sha256": "AAA15BDDB1C924AD7A7F22F89E5CD3E2C61407A064E011B7CF4CB618716449A4",
+        "sha256": "C7B8948FECCAACE5B509A343F38D0301D07901885604B3F267270E1EBBEF0FE7",
         "web": {
             "apple": false,
             "chrome": false,
@@ -4658,22 +4642,6 @@
     {
         "owner": "Sectigo",
         "certificate_name": "COMODO Certification Authority",
-        "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": false,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": false,
-            "mozilla": true
-        }
-    },
-    {
-        "owner": "Sectigo",
-        "certificate_name": "COMODO Certification Authority",
         "sha256": "1A0D20445DE5BA1862D19EF880858CBCE50102B36E8F0A040C3C69E74522FE6E",
         "web": {
             "apple": false,
@@ -4685,6 +4653,22 @@
             "apple": false,
             "microsoft": true,
             "mozilla": false
+        }
+    },
+    {
+        "owner": "Sectigo",
+        "certificate_name": "COMODO Certification Authority",
+        "sha256": "0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": true
         }
     },
     {
@@ -5841,22 +5825,6 @@
     },
     {
         "owner": "Visa",
-        "certificate_name": "Visa Information Delivery Root CA",
-        "sha256": "C57A3ACBE8C06BA1988A83485BF326F2448775379849DE01CA43571AF357E74B",
-        "web": {
-            "apple": false,
-            "chrome": false,
-            "microsoft": true,
-            "mozilla": false
-        },
-        "email": {
-            "apple": false,
-            "microsoft": true,
-            "mozilla": false
-        }
-    },
-    {
-        "owner": "Visa",
         "certificate_name": "Visa Public ECC Root CA",
         "sha256": "E6BE68CE06FE0DA0C140F1AEB00B67B636C5EEA9422088929362375CE086DB39",
         "web": {
@@ -5875,6 +5843,22 @@
         "owner": "Visa",
         "certificate_name": "Visa Public RSA Root CA",
         "sha256": "07CD9AA9064A9B94C6AEF8FB784C1BBC1BEDA08ACBE86878D781A39167626CF8",
+        "web": {
+            "apple": false,
+            "chrome": false,
+            "microsoft": false,
+            "mozilla": false
+        },
+        "email": {
+            "apple": false,
+            "microsoft": false,
+            "mozilla": false
+        }
+    },
+    {
+        "owner": "Visa",
+        "certificate_name": "Visa TLS Root CA",
+        "sha256": "E6432FCE6B48F4E889B2FE183F8B480F72ECF80F57389B0E9C6E89CF04AD69D1",
         "web": {
             "apple": false,
             "chrome": false,
