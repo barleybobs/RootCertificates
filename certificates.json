@@ -2213,7 +2213,7 @@
         "sha256": "86A1ECBA089C4A8D3BBE2734C612BA341D813E043CF9E8A862CD5C57A36BBE6B",
         "web": {
             "apple": false,
-            "chrome": true,
+            "chrome": false,
             "microsoft": true,
             "mozilla": false
         },
